@@ -1,0 +1,9 @@
+{
+  "fetchedAt": "2026-05-26T15:11:19+00:00",
+  "date": "2025-10-08",
+  "source": "data.europarl.europa.eu/api/v2",
+  "speechesPath": "20251008/speeches.jsonld",
+  "meetingPath": "20251008/meeting.jsonld",
+  "speechesSize": 23893155,
+  "meetingSize": 113757
+}

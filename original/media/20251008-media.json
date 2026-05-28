@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "session": "20251008",
+    "date": "2025-10-08",
+    "parliament": "EU",
+    "processing": {
+      "parse_media": "2026-05-26T15:55:41+00:00"
+    }
+  },
+  "data": [
+    {
+      "eventRef": "20251008-0900-PLENARY",
+      "title": "Plenary session",
+      "sittingStart": 1759906970,
+      "sittingEnd": 1759950335,
+      "dateStart": "2025-10-08T07:02:50+00:00",
+      "dateEnd": "2025-10-08T19:05:35+00:00",
+      "hlsMasterUrl": "https://vod.media.eup.glcloud.eu/i/2025/10/08/20251008-0900-PLENARY/20251008-0900-PLENARY_,540p,360p,720p,1080p,.mp4/master.m3u8",
+      "hlsAudioUrls": {
+        "or": "https://vod-rwrtr.media.eup.glcloud.eu/i/,/2025/10/08/20251008-0900-PLENARY/20251008-0900-PLENARY_,540p,360p,720p,1080p,.mp4/index-f4-a1.m3u8",
+        "en": "https://vod-rwrtr.media.eup.glcloud.eu/i/,/2025/10/08/20251008-0900-PLENARY/20251008-0900-PLENARY_,540p,360p,720p,1080p,.mp4/index-f4-a5.m3u8"
+      },
+      "playerDownload": true
+    }
+  ]
+}
