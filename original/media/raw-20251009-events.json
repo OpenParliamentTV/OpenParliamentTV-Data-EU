@@ -1,0 +1,137 @@
+{
+  "fetchedAt": "2026-06-02T13:01:06+00:00",
+  "date": "2025-10-09",
+  "events": [
+    {
+      "commonId": "20251009-0900-PLENARY",
+      "eventType": "PLENARY",
+      "title": "Plenary session",
+      "description": "",
+      "startDate": "2025-10-09T07:00:27.000Z",
+      "endDate": "2025-10-09T13:34:46.000Z",
+      "posterFrame": "https://storage.eup.glcloud.eu/thumbnail/default_thumbnail.png",
+      "visibility": "PUBLISHED",
+      "live": false,
+      "finalVod": true,
+      "playerUrl": "https://vod.media.eup.glcloud.eu/i/2025/10/09/20251009-0900-PLENARY/20251009-0900-PLENARY_,360p,540p,720p,1080p,.mp4/master.m3u8",
+      "thumbnailTrackUrl": "https://progressive.media.eup.glcloud.eu/2025/10/09/20251009-0900-PLENARY/thumbnails/primary/thumbnails.vtt",
+      "mcPrimaryIp": "238.0.40.176:4321",
+      "mcSecondaryIp": "238.0.40.177:4321",
+      "playerDvr": true,
+      "playerSharing": true,
+      "playerDownload": true,
+      "metaStartTime": 1759993227,
+      "startTime": 1759993227,
+      "endTime": 1760016886,
+      "languageMapping": [
+        {
+          "lang": "OR",
+          "sort": 1
+        },
+        {
+          "lang": "EN",
+          "sort": 9
+        },
+        {
+          "lang": "FR",
+          "sort": 10
+        },
+        {
+          "lang": "DE",
+          "sort": 6
+        },
+        {
+          "lang": "IT",
+          "sort": 12
+        },
+        {
+          "lang": "ES",
+          "sort": 3
+        },
+        {
+          "lang": "EL",
+          "sort": 8
+        },
+        {
+          "lang": "PT",
+          "sort": 19
+        },
+        {
+          "lang": "NL",
+          "sort": 17
+        },
+        {
+          "lang": "DA",
+          "sort": 5
+        },
+        {
+          "lang": "FI",
+          "sort": 23
+        },
+        {
+          "lang": "SV",
+          "sort": 24
+        },
+        {
+          "lang": "CS",
+          "sort": 4
+        },
+        {
+          "lang": "ET",
+          "sort": 7
+        },
+        {
+          "lang": "LV",
+          "sort": 13
+        },
+        {
+          "lang": "LT",
+          "sort": 14
+        },
+        {
+          "lang": "HU",
+          "sort": 15
+        },
+        {
+          "lang": "MT",
+          "sort": 16
+        },
+        {
+          "lang": "PL",
+          "sort": 18
+        },
+        {
+          "lang": "SK",
+          "sort": 21
+        },
+        {
+          "lang": "SL",
+          "sort": 22
+        },
+        {
+          "lang": "BG",
+          "sort": 2
+        },
+        {
+          "lang": "RO",
+          "sort": 20
+        },
+        {
+          "lang": "HR",
+          "sort": 11
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "meta": {
+        "updatedAt": "2025-10-16T13:58:02.000Z"
+      }
+    }
+  ]
+}
