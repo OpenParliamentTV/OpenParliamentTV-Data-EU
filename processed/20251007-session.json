@@ -30,7 +30,6 @@
         "number": 2
       },
       "speechIndex": 1,
-      "originID": "2017041478136",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:01:39.463000+00:00",
       "dateEnd": "2025-10-07T07:06:31.194000+00:00",
@@ -361,7 +360,6 @@
         "number": 2
       },
       "speechIndex": 2,
-      "originID": "2017041532844",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:17:24.934000+00:00",
       "dateEnd": "2025-10-07T07:18:49.913000+00:00",
@@ -519,7 +517,6 @@
         "number": 2
       },
       "speechIndex": 3,
-      "originID": "2017041532856",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:28:03.919000+00:00",
       "dateEnd": "2025-10-07T07:29:59.930000+00:00",
@@ -688,7 +685,6 @@
         "number": 2
       },
       "speechIndex": 4,
-      "originID": "2017041532864",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:35:12.638000+00:00",
       "dateEnd": "2025-10-07T07:36:29.012000+00:00",
@@ -883,7 +879,6 @@
         "number": 2
       },
       "speechIndex": 5,
-      "originID": "2017041532880",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:47:49.438000+00:00",
       "dateEnd": "2025-10-07T07:49:02.805000+00:00",
@@ -1029,7 +1024,6 @@
         "number": 2
       },
       "speechIndex": 6,
-      "originID": "2017041532882",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:49:08.204000+00:00",
       "dateEnd": "2025-10-07T07:50:21.220000+00:00",
@@ -1143,7 +1137,6 @@
         "number": 2
       },
       "speechIndex": 7,
-      "originID": "2017041532884",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:50:24.476000+00:00",
       "dateEnd": "2025-10-07T07:51:46.237000+00:00",
@@ -1318,7 +1311,6 @@
         "number": 2
       },
       "speechIndex": 8,
-      "originID": "2017041532891",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:55:20.571000+00:00",
       "dateEnd": "2025-10-07T07:56:31.641000+00:00",
@@ -1481,7 +1473,6 @@
         "number": 2
       },
       "speechIndex": 9,
-      "originID": "2017041532893",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:56:34.405000+00:00",
       "dateEnd": "2025-10-07T07:57:51.768000+00:00",
@@ -1650,7 +1641,6 @@
         "number": 2
       },
       "speechIndex": 10,
-      "originID": "2017041532895",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:57:58.783000+00:00",
       "dateEnd": "2025-10-07T07:59:26.909000+00:00",
@@ -1814,7 +1804,6 @@
         "number": 2
       },
       "speechIndex": 11,
-      "originID": "2017041532899",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:00:42.983000+00:00",
       "dateEnd": "2025-10-07T08:01:49.715000+00:00",
@@ -1972,7 +1961,6 @@
         "number": 2
       },
       "speechIndex": 12,
-      "originID": "2017041532903",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:03:17.153000+00:00",
       "dateEnd": "2025-10-07T08:04:32.575000+00:00",
@@ -2191,7 +2179,6 @@
         "number": 4
       },
       "speechIndex": 13,
-      "originID": "2017041540361",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:17:35.047000+00:00",
       "dateEnd": "2025-10-07T09:19:52.620000+00:00",
@@ -2429,7 +2416,6 @@
         "number": 4
       },
       "speechIndex": 14,
-      "originID": "2017041540363",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:19:58.830000+00:00",
       "dateEnd": "2025-10-07T09:22:57.453000+00:00",
@@ -2717,7 +2703,6 @@
         "number": 4
       },
       "speechIndex": 15,
-      "originID": "2017041540393",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:48:07.036000+00:00",
       "dateEnd": "2025-10-07T09:49:20.027000+00:00",
@@ -2947,7 +2932,6 @@
         "number": 4
       },
       "speechIndex": 16,
-      "originID": "2017041540399",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:52:40.215000+00:00",
       "dateEnd": "2025-10-07T09:53:54.953000+00:00",
@@ -3153,7 +3137,6 @@
         "number": 4
       },
       "speechIndex": 17,
-      "originID": "2017041540427",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:08:43.093000+00:00",
       "dateEnd": "2025-10-07T10:09:59.568000+00:00",
@@ -3267,7 +3250,6 @@
         "number": 6
       },
       "speechIndex": 18,
-      "originID": "2017041540443",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:20:06.604000+00:00",
       "dateEnd": "2025-10-07T10:21:09.650000+00:00",
@@ -3358,7 +3340,6 @@
         "number": 6
       },
       "speechIndex": 19,
-      "originID": "2017041554256",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:24:42.186000+00:00",
       "dateEnd": "2025-10-07T10:25:04.100000+00:00",
@@ -3449,7 +3430,6 @@
         "number": 9
       },
       "speechIndex": 20,
-      "originID": "2017041554289",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:52:25.534000+00:00",
       "dateEnd": "2025-10-07T10:54:00.372000+00:00",
@@ -3647,7 +3627,6 @@
         "number": 9
       },
       "speechIndex": 21,
-      "originID": "2017041554297",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:59:03.840000+00:00",
       "dateEnd": "2025-10-07T11:01:30.603000+00:00",
@@ -3867,7 +3846,6 @@
         "number": 9
       },
       "speechIndex": 22,
-      "originID": "2017041554312",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:09:07.144000+00:00",
       "dateEnd": "2025-10-07T11:10:37.968000+00:00",
@@ -4116,7 +4094,6 @@
         "number": 9
       },
       "speechIndex": 23,
-      "originID": "2017041554316",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:11:39.328000+00:00",
       "dateEnd": "2025-10-07T11:12:25.811000+00:00",
@@ -4261,7 +4238,6 @@
         "number": 9
       },
       "speechIndex": 24,
-      "originID": "2017041554329",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:21:27.698000+00:00",
       "dateEnd": "2025-10-07T11:22:40.741000+00:00",
@@ -4444,7 +4420,6 @@
         "number": 9
       },
       "speechIndex": 25,
-      "originID": "2017041554333",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:24:19.888000+00:00",
       "dateEnd": "2025-10-07T11:25:43.920000+00:00",
@@ -4634,7 +4609,6 @@
         "number": 9
       },
       "speechIndex": 26,
-      "originID": "2017041557545",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:31:52.976000+00:00",
       "dateEnd": "2025-10-07T11:34:03.751000+00:00",
@@ -4890,7 +4864,6 @@
         "number": 9
       },
       "speechIndex": 27,
-      "originID": "2017041557560",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:39:39.745000+00:00",
       "dateEnd": "2025-10-07T11:40:55.551000+00:00",
@@ -5110,7 +5083,6 @@
         "number": 9
       },
       "speechIndex": 28,
-      "originID": "2017041557562",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:41:07.885000+00:00",
       "dateEnd": "2025-10-07T11:41:23.400000+00:00",
@@ -5224,7 +5196,6 @@
         "number": 9
       },
       "speechIndex": 29,
-      "originID": "2017041557581",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:52:35.800000+00:00",
       "dateEnd": "2025-10-07T11:53:51.883000+00:00",
@@ -5424,7 +5395,6 @@
         "number": 9
       },
       "speechIndex": 30,
-      "originID": "2017041557603",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:05:30.114000+00:00",
       "dateEnd": "2025-10-07T12:06:37.465000+00:00",
@@ -5630,7 +5600,6 @@
         "number": 9
       },
       "speechIndex": 31,
-      "originID": "2017041557604",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:17:21.662000+00:00",
       "dateEnd": "2025-10-07T11:17:28.657000+00:00",
@@ -5721,7 +5690,6 @@
         "number": 9
       },
       "speechIndex": 32,
-      "originID": "2017041557610",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:09:11.055000+00:00",
       "dateEnd": "2025-10-07T12:10:37.130000+00:00",
@@ -5920,7 +5888,6 @@
         "number": 9
       },
       "speechIndex": 33,
-      "originID": "2017041557618",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:14:52.560000+00:00",
       "dateEnd": "2025-10-07T12:16:14.185000+00:00",
@@ -6113,7 +6080,6 @@
         "number": 10
       },
       "speechIndex": 34,
-      "originID": "2017041562581",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:13:10.157000+00:00",
       "dateEnd": "2025-10-07T13:15:02.552000+00:00",
@@ -6234,7 +6200,6 @@
         "number": 10
       },
       "speechIndex": 35,
-      "originID": "2017041562585",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:17:22.439000+00:00",
       "dateEnd": "2025-10-07T13:19:11.532000+00:00",
@@ -6379,7 +6344,6 @@
         "number": 10
       },
       "speechIndex": 36,
-      "originID": "2017041562591",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:22:13.070000+00:00",
       "dateEnd": "2025-10-07T13:24:24.149000+00:00",
@@ -6537,7 +6501,6 @@
         "number": 10
       },
       "speechIndex": 37,
-      "originID": "2017041562593",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:24:26.286000+00:00",
       "dateEnd": "2025-10-07T13:25:56.786000+00:00",
@@ -6689,7 +6652,6 @@
         "number": 10
       },
       "speechIndex": 38,
-      "originID": "2017041562606",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:33:40.780000+00:00",
       "dateEnd": "2025-10-07T13:34:55.313000+00:00",
@@ -6790,7 +6752,6 @@
         "number": 10
       },
       "speechIndex": 39,
-      "originID": "2017041562619",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:43:30.854000+00:00",
       "dateEnd": "2025-10-07T13:44:46.893000+00:00",
@@ -6924,7 +6885,6 @@
         "number": 10
       },
       "speechIndex": 40,
-      "originID": "2017041562625",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:47:30.468000+00:00",
       "dateEnd": "2025-10-07T13:48:45.673000+00:00",
@@ -7080,7 +7040,6 @@
         "number": 10
       },
       "speechIndex": 41,
-      "originID": "2017041562631",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:52:18.554000+00:00",
       "dateEnd": "2025-10-07T13:53:27.951000+00:00",
@@ -7181,7 +7140,6 @@
         "number": 10
       },
       "speechIndex": 42,
-      "originID": "2017041562633",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:53:31.693000+00:00",
       "dateEnd": "2025-10-07T13:54:32.580000+00:00",
@@ -7332,7 +7290,6 @@
         "number": 10
       },
       "speechIndex": 43,
-      "originID": "2017041562637",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:55:56.969000+00:00",
       "dateEnd": "2025-10-07T13:57:15.092000+00:00",
@@ -7508,7 +7465,6 @@
         "number": 10
       },
       "speechIndex": 44,
-      "originID": "2017041637045",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:01:56.797000+00:00",
       "dateEnd": "2025-10-07T14:03:12.962000+00:00",
@@ -7621,7 +7577,6 @@
         "number": 10
       },
       "speechIndex": 45,
-      "originID": "2017041637048",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:05:11.533000+00:00",
       "dateEnd": "2025-10-07T14:06:29.898000+00:00",
@@ -7797,7 +7752,6 @@
         "number": 10
       },
       "speechIndex": 46,
-      "originID": "2017041637056",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:08:59.225000+00:00",
       "dateEnd": "2025-10-07T14:10:47.158000+00:00",
@@ -7972,7 +7926,6 @@
         "number": 10
       },
       "speechIndex": 47,
-      "originID": "2017041637060",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:12:19.683000+00:00",
       "dateEnd": "2025-10-07T14:13:28.968000+00:00",
@@ -8099,7 +8052,6 @@
         "number": 10
       },
       "speechIndex": 48,
-      "originID": "2017041637074",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:21:51.848000+00:00",
       "dateEnd": "2025-10-07T14:23:16.531000+00:00",
@@ -8238,7 +8190,6 @@
         "number": 10
       },
       "speechIndex": 49,
-      "originID": "2017041637084",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:28:53.866000+00:00",
       "dateEnd": "2025-10-07T14:30:09.589000+00:00",
@@ -8389,7 +8340,6 @@
         "number": 10
       },
       "speechIndex": 50,
-      "originID": "2017041637095",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:36:24.367000+00:00",
       "dateEnd": "2025-10-07T14:37:44.280000+00:00",
@@ -8522,7 +8472,6 @@
         "number": 10
       },
       "speechIndex": 51,
-      "originID": "2017041637102",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:41:42.931000+00:00",
       "dateEnd": "2025-10-07T14:43:00.007000+00:00",
@@ -8630,7 +8579,6 @@
         "number": 10
       },
       "speechIndex": 52,
-      "originID": "2017041637111",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:47:32.395000+00:00",
       "dateEnd": "2025-10-07T14:48:58.193000+00:00",
@@ -8768,7 +8716,6 @@
         "number": 10
       },
       "speechIndex": 53,
-      "originID": "2017041637117",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:50:57.364000+00:00",
       "dateEnd": "2025-10-07T14:52:17.134000+00:00",
@@ -8931,7 +8878,6 @@
         "number": 10
       },
       "speechIndex": 54,
-      "originID": "2017041637123",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:54:02.744000+00:00",
       "dateEnd": "2025-10-07T14:54:36.533000+00:00",
@@ -9051,7 +8997,6 @@
         "number": 10
       },
       "speechIndex": 55,
-      "originID": "2017041637125",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:54:36.581000+00:00",
       "dateEnd": "2025-10-07T14:55:14.937000+00:00",
@@ -9183,7 +9128,6 @@
         "number": 10
       },
       "speechIndex": 56,
-      "originID": "2017041637141",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:02:55.413000+00:00",
       "dateEnd": "2025-10-07T15:04:06.875000+00:00",
@@ -9346,7 +9290,6 @@
         "number": 10
       },
       "speechIndex": 57,
-      "originID": "2017041641351",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:09:39.297000+00:00",
       "dateEnd": "2025-10-07T15:10:57.736000+00:00",
@@ -9473,7 +9416,6 @@
         "number": 10
       },
       "speechIndex": 58,
-      "originID": "2017041641362",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:21:22.269000+00:00",
       "dateEnd": "2025-10-07T15:21:27.590000+00:00",
@@ -9569,7 +9511,6 @@
         "number": 12
       },
       "speechIndex": 59,
-      "originID": "2017041641383",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:36:55.493000+00:00",
       "dateEnd": "2025-10-07T15:38:16.156000+00:00",
@@ -9774,7 +9715,6 @@
         "number": 12
       },
       "speechIndex": 60,
-      "originID": "2017041641385",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:38:19.763000+00:00",
       "dateEnd": "2025-10-07T15:39:28.830000+00:00",
@@ -9955,7 +9895,6 @@
         "number": 12
       },
       "speechIndex": 61,
-      "originID": "2017041641394",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:44:47.503000+00:00",
       "dateEnd": "2025-10-07T15:45:40.293000+00:00",
@@ -10075,7 +10014,6 @@
         "number": 12
       },
       "speechIndex": 62,
-      "originID": "2017041641406",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:51:08.655000+00:00",
       "dateEnd": "2025-10-07T15:52:16.079000+00:00",
@@ -10202,7 +10140,6 @@
         "number": 12
       },
       "speechIndex": 63,
-      "originID": "2017041641411",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:55:00.972000+00:00",
       "dateEnd": "2025-10-07T15:55:53.484000+00:00",
@@ -10353,7 +10290,6 @@
         "number": 12
       },
       "speechIndex": 64,
-      "originID": "2017041641436",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:11:16.551000+00:00",
       "dateEnd": "2025-10-07T16:12:29.142000+00:00",
@@ -10523,7 +10459,6 @@
         "number": 12
       },
       "speechIndex": 65,
-      "originID": "2017041641440",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:13:52.468000+00:00",
       "dateEnd": "2025-10-07T16:15:10.377000+00:00",
@@ -10716,7 +10651,6 @@
         "number": 12
       },
       "speechIndex": 66,
-      "originID": "2017041650855",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:23:21.072000+00:00",
       "dateEnd": "2025-10-07T16:24:31.885000+00:00",
@@ -10911,7 +10845,6 @@
         "number": 12
       },
       "speechIndex": 67,
-      "originID": "2017041650861",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:27:05.923000+00:00",
       "dateEnd": "2025-10-07T16:28:24.305000+00:00",
@@ -11111,7 +11044,6 @@
         "number": 12
       },
       "speechIndex": 68,
-      "originID": "2017041650866",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:30:00.956000+00:00",
       "dateEnd": "2025-10-07T16:31:05.538000+00:00",
@@ -11261,7 +11193,6 @@
         "number": 12
       },
       "speechIndex": 69,
-      "originID": "2017041650872",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:33:41.057000+00:00",
       "dateEnd": "2025-10-07T16:34:52.299000+00:00",
@@ -11521,7 +11452,6 @@
         "number": 12
       },
       "speechIndex": 70,
-      "originID": "2017041650878",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:37:30.015000+00:00",
       "dateEnd": "2025-10-07T16:38:40.575000+00:00",
@@ -11793,7 +11723,6 @@
         "number": 13
       },
       "speechIndex": 71,
-      "originID": "2017041650884",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:44:47.635000+00:00",
       "dateEnd": "2025-10-07T16:50:30.046000+00:00",
@@ -12055,7 +11984,6 @@
         "number": 13
       },
       "speechIndex": 72,
-      "originID": "2017041650888",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:12:50.557000+00:00",
       "dateEnd": "2025-10-07T17:14:00.758000+00:00",
@@ -12255,7 +12183,6 @@
         "number": 13
       },
       "speechIndex": 73,
-      "originID": "2017041650902",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:20:47.707000+00:00",
       "dateEnd": "2025-10-07T17:21:04.893000+00:00",
@@ -12350,7 +12277,6 @@
         "number": 13
       },
       "speechIndex": 74,
-      "originID": "2017041650920",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:29:50.138000+00:00",
       "dateEnd": "2025-10-07T17:31:05.866000+00:00",
@@ -12483,7 +12409,6 @@
         "number": 13
       },
       "speechIndex": 75,
-      "originID": "2017041650925",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:32:44.132000+00:00",
       "dateEnd": "2025-10-07T17:33:56.278000+00:00",
@@ -12664,7 +12589,6 @@
         "number": 13
       },
       "speechIndex": 76,
-      "originID": "2017041650938",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:42:55.135000+00:00",
       "dateEnd": "2025-10-07T17:43:40.370000+00:00",
@@ -12798,7 +12722,6 @@
         "number": 13
       },
       "speechIndex": 77,
-      "originID": "2017041650943",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:40:48.699000+00:00",
       "dateEnd": "2025-10-07T16:44:35.472000+00:00",
@@ -13104,7 +13027,6 @@
         "number": 14
       },
       "speechIndex": 78,
-      "originID": "2017041657051",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:53:48.558000+00:00",
       "dateEnd": "2025-10-07T17:55:33.302000+00:00",
@@ -13353,7 +13275,6 @@
         "number": 13
       },
       "speechIndex": 79,
-      "originID": "2017041657068",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:56:40.761000+00:00",
       "dateEnd": "2025-10-07T16:58:32.052000+00:00",
@@ -13518,7 +13439,6 @@
         "number": 13
       },
       "speechIndex": 80,
-      "originID": "2017041657074",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:58:59.313000+00:00",
       "dateEnd": "2025-10-07T17:00:25.486000+00:00",
@@ -13701,7 +13621,6 @@
         "number": 13
       },
       "speechIndex": 81,
-      "originID": "2017041657079",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:00:32.272000+00:00",
       "dateEnd": "2025-10-07T17:01:51.453000+00:00",
@@ -13882,7 +13801,6 @@
         "number": 14
       },
       "speechIndex": 82,
-      "originID": "2017041657092",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:12:39.832000+00:00",
       "dateEnd": "2025-10-07T18:13:52.048000+00:00",
@@ -14064,7 +13982,6 @@
         "number": 14
       },
       "speechIndex": 83,
-      "originID": "2017041657116",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:20:43.032000+00:00",
       "dateEnd": "2025-10-07T18:22:00.280000+00:00",
@@ -14275,7 +14192,6 @@
         "number": 14
       },
       "speechIndex": 84,
-      "originID": "2017041657131",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:30:28.595000+00:00",
       "dateEnd": "2025-10-07T18:31:26.836000+00:00",
@@ -14432,7 +14348,6 @@
         "number": 14
       },
       "speechIndex": 85,
-      "originID": "2017041657133",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:31:30.758000+00:00",
       "dateEnd": "2025-10-07T18:32:30.712000+00:00",
@@ -14601,7 +14516,6 @@
         "number": 14
       },
       "speechIndex": 86,
-      "originID": "2017041661445",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:38:41.666000+00:00",
       "dateEnd": "2025-10-07T18:41:35.396000+00:00",
@@ -14869,7 +14783,6 @@
         "number": 15
       },
       "speechIndex": 87,
-      "originID": "2017041661449",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:41:41.853000+00:00",
       "dateEnd": "2025-10-07T18:41:55.293000+00:00",
@@ -14972,7 +14885,6 @@
         "number": 15
       },
       "speechIndex": 88,
-      "originID": "2017041661452",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:46:17.307000+00:00",
       "dateEnd": "2025-10-07T18:47:35.757000+00:00",
@@ -15125,7 +15037,6 @@
         "number": 15
       },
       "speechIndex": 89,
-      "originID": "2017041661495",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:23:26.079000+00:00",
       "dateEnd": "2025-10-07T19:24:41.024000+00:00",
@@ -15270,7 +15181,6 @@
         "number": 15
       },
       "speechIndex": 90,
-      "originID": "2017041661501",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:28:21.689000+00:00",
       "dateEnd": "2025-10-07T19:29:41.267000+00:00",
@@ -15470,7 +15380,6 @@
         "number": 18
       },
       "speechIndex": 91,
-      "originID": "2017041661514",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:36:42.200000+00:00",
       "dateEnd": "2025-10-07T19:36:47.090000+00:00",
@@ -15567,7 +15476,6 @@
         "number": 2
       },
       "speechIndex": 92,
-      "originID": "2017041478142",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:15:13.412000+00:00",
       "dateEnd": "2025-10-07T07:17:17.652000+00:00",
@@ -15775,7 +15683,6 @@
         "number": 2
       },
       "speechIndex": 93,
-      "originID": "2017041532868",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:38:00.699000+00:00",
       "dateEnd": "2025-10-07T07:39:45.412000+00:00",
@@ -15963,7 +15870,6 @@
         "number": 2
       },
       "speechIndex": 94,
-      "originID": "2017041532874",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:43:34.874000+00:00",
       "dateEnd": "2025-10-07T07:45:04.078000+00:00",
@@ -16177,7 +16083,6 @@
         "number": 2
       },
       "speechIndex": 95,
-      "originID": "2017041532889",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:54:24.345000+00:00",
       "dateEnd": "2025-10-07T07:55:15.105000+00:00",
@@ -16315,7 +16220,6 @@
         "number": 2
       },
       "speechIndex": 96,
-      "originID": "2017041532897",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:59:31.676000+00:00",
       "dateEnd": "2025-10-07T08:00:36.810000+00:00",
@@ -16461,7 +16365,6 @@
         "number": 2
       },
       "speechIndex": 97,
-      "originID": "2017041532911",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:08:38.732000+00:00",
       "dateEnd": "2025-10-07T08:09:59.021000+00:00",
@@ -16636,7 +16539,6 @@
         "number": 2
       },
       "speechIndex": 98,
-      "originID": "2017041532923",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:15:14.158000+00:00",
       "dateEnd": "2025-10-07T08:16:25.176000+00:00",
@@ -16805,7 +16707,6 @@
         "number": 4
       },
       "speechIndex": 99,
-      "originID": "2017041540353",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:07:16.095000+00:00",
       "dateEnd": "2025-10-07T09:10:29.959000+00:00",
@@ -17106,7 +17007,6 @@
         "number": 4
       },
       "speechIndex": 100,
-      "originID": "2017041540373",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:31:04.346000+00:00",
       "dateEnd": "2025-10-07T09:32:26.262000+00:00",
@@ -17302,7 +17202,6 @@
         "number": 4
       },
       "speechIndex": 101,
-      "originID": "2017041540383",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:40:54.978000+00:00",
       "dateEnd": "2025-10-07T09:42:10.706000+00:00",
@@ -17489,7 +17388,6 @@
         "number": 4
       },
       "speechIndex": 102,
-      "originID": "2017041540395",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:49:24.839000+00:00",
       "dateEnd": "2025-10-07T09:51:13.843000+00:00",
@@ -17676,7 +17574,6 @@
         "number": 4
       },
       "speechIndex": 103,
-      "originID": "2017041540403",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:55:05.485000+00:00",
       "dateEnd": "2025-10-07T09:56:14.067000+00:00",
@@ -17884,7 +17781,6 @@
         "number": 4
       },
       "speechIndex": 104,
-      "originID": "2017041540407",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:57:31.598000+00:00",
       "dateEnd": "2025-10-07T09:58:46.112000+00:00",
@@ -18065,7 +17961,6 @@
         "number": 4
       },
       "speechIndex": 105,
-      "originID": "2017041540409",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:58:49.347000+00:00",
       "dateEnd": "2025-10-07T10:00:03.449000+00:00",
@@ -18229,7 +18124,6 @@
         "number": 4
       },
       "speechIndex": 106,
-      "originID": "2017041540423",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:06:18.047000+00:00",
       "dateEnd": "2025-10-07T10:07:27.831000+00:00",
@@ -18478,7 +18372,6 @@
         "number": 6
       },
       "speechIndex": 107,
-      "originID": "2017041540435",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:18:49.457000+00:00",
       "dateEnd": "2025-10-07T10:19:11.126000+00:00",
@@ -18576,7 +18469,6 @@
         "number": 6
       },
       "speechIndex": 108,
-      "originID": "2017041540436",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:19:11.126000+00:00",
       "dateEnd": "2025-10-07T10:19:25.680000+00:00",
@@ -18667,7 +18559,6 @@
         "number": 6
       },
       "speechIndex": 109,
-      "originID": "2017041540437",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:19:25.680000+00:00",
       "dateEnd": "2025-10-07T10:19:41.510000+00:00",
@@ -18758,7 +18649,6 @@
         "number": 6
       },
       "speechIndex": 110,
-      "originID": "2017041540438",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:19:41.510000+00:00",
       "dateEnd": "2025-10-07T10:19:54.720000+00:00",
@@ -18849,7 +18739,6 @@
         "number": 6
       },
       "speechIndex": 111,
-      "originID": "2017041540441",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:19:55.604000+00:00",
       "dateEnd": "2025-10-07T10:20:06.604000+00:00",
@@ -18940,7 +18829,6 @@
         "number": 6
       },
       "speechIndex": 112,
-      "originID": "2017041554250",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:22:17.714000+00:00",
       "dateEnd": "2025-10-07T10:22:28.291000+00:00",
@@ -19030,7 +18918,6 @@
         "number": 8
       },
       "speechIndex": 113,
-      "originID": "2017041554271",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:30:22.162000+00:00",
       "dateEnd": "2025-10-07T10:30:50.600000+00:00",
@@ -19121,7 +19008,6 @@
         "number": 9
       },
       "speechIndex": 114,
-      "originID": "2017041554276",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:34:34.792000+00:00",
       "dateEnd": "2025-10-07T10:42:12.574000+00:00",
@@ -19750,7 +19636,6 @@
         "number": 9
       },
       "speechIndex": 115,
-      "originID": "2017041554279",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:42:21.736000+00:00",
       "dateEnd": "2025-10-07T10:44:11.886000+00:00",
@@ -20007,7 +19892,6 @@
         "number": 9
       },
       "speechIndex": 116,
-      "originID": "2017041554283",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:47:18.318000+00:00",
       "dateEnd": "2025-10-07T10:49:09.104000+00:00",
@@ -20251,7 +20135,6 @@
         "number": 9
       },
       "speechIndex": 117,
-      "originID": "2017041554285",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:49:16.742000+00:00",
       "dateEnd": "2025-10-07T10:50:30.274000+00:00",
@@ -20402,7 +20285,6 @@
         "number": 9
       },
       "speechIndex": 118,
-      "originID": "2017041554318",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:12:31.039000+00:00",
       "dateEnd": "2025-10-07T11:13:53.558000+00:00",
@@ -20691,7 +20573,6 @@
         "number": 9
       },
       "speechIndex": 119,
-      "originID": "2017041554320",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:13:59.918000+00:00",
       "dateEnd": "2025-10-07T11:15:11.789000+00:00",
@@ -20895,7 +20776,6 @@
         "number": 9
       },
       "speechIndex": 120,
-      "originID": "2017041557550",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:34:11.533000+00:00",
       "dateEnd": "2025-10-07T11:35:15.949000+00:00",
@@ -21065,7 +20945,6 @@
         "number": 9
       },
       "speechIndex": 121,
-      "originID": "2017041557553",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:35:20.015000+00:00",
       "dateEnd": "2025-10-07T11:36:30.475000+00:00",
@@ -21254,7 +21133,6 @@
         "number": 9
       },
       "speechIndex": 122,
-      "originID": "2017041557558",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:38:12.289000+00:00",
       "dateEnd": "2025-10-07T11:39:34.518000+00:00",
@@ -21430,7 +21308,6 @@
         "number": 9
       },
       "speechIndex": 123,
-      "originID": "2017041557569",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:43:39.165000+00:00",
       "dateEnd": "2025-10-07T11:44:54.434000+00:00",
@@ -21642,7 +21519,6 @@
         "number": 9
       },
       "speechIndex": 124,
-      "originID": "2017041557573",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:47:16.901000+00:00",
       "dateEnd": "2025-10-07T11:48:35.669000+00:00",
@@ -21812,7 +21688,6 @@
         "number": 9
       },
       "speechIndex": 125,
-      "originID": "2017041557598",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:03:01.313000+00:00",
       "dateEnd": "2025-10-07T12:04:14.069000+00:00",
@@ -21994,7 +21869,6 @@
         "number": 9
       },
       "speechIndex": 126,
-      "originID": "2017041557606",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:06:40.445000+00:00",
       "dateEnd": "2025-10-07T12:07:43.265000+00:00",
@@ -22182,7 +22056,6 @@
         "number": 9
       },
       "speechIndex": 127,
-      "originID": "2017041562549",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:34:59.797000+00:00",
       "dateEnd": "2025-10-07T12:36:07.836000+00:00",
@@ -22363,7 +22236,6 @@
         "number": 9
       },
       "speechIndex": 128,
-      "originID": "2017041562559",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:41:28.786000+00:00",
       "dateEnd": "2025-10-07T12:47:44.188000+00:00",
@@ -22782,7 +22654,6 @@
         "number": 10
       },
       "speechIndex": 129,
-      "originID": "2017041562566",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:49:42.514000+00:00",
       "dateEnd": "2025-10-07T12:54:31.495000+00:00",
@@ -22978,7 +22849,6 @@
         "number": 10
       },
       "speechIndex": 130,
-      "originID": "2017041562568",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:54:39.800000+00:00",
       "dateEnd": "2025-10-07T12:58:59.857000+00:00",
@@ -23241,7 +23111,6 @@
         "number": 10
       },
       "speechIndex": 131,
-      "originID": "2017041562573",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:04:49.313000+00:00",
       "dateEnd": "2025-10-07T13:06:43.204000+00:00",
@@ -23374,7 +23243,6 @@
         "number": 10
       },
       "speechIndex": 132,
-      "originID": "2017041562575",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:06:49.220000+00:00",
       "dateEnd": "2025-10-07T13:09:22.704000+00:00",
@@ -23532,7 +23400,6 @@
         "number": 10
       },
       "speechIndex": 133,
-      "originID": "2017041562595",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:26:00.126000+00:00",
       "dateEnd": "2025-10-07T13:27:38.660000+00:00",
@@ -23695,7 +23562,6 @@
         "number": 10
       },
       "speechIndex": 134,
-      "originID": "2017041562599",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:29:08.315000+00:00",
       "dateEnd": "2025-10-07T13:30:44.304000+00:00",
@@ -23816,7 +23682,6 @@
         "number": 10
       },
       "speechIndex": 135,
-      "originID": "2017041562615",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:39:54.276000+00:00",
       "dateEnd": "2025-10-07T13:41:32.410000+00:00",
@@ -23969,7 +23834,6 @@
         "number": 10
       },
       "speechIndex": 136,
-      "originID": "2017041562621",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:44:52.548000+00:00",
       "dateEnd": "2025-10-07T13:46:06.303000+00:00",
@@ -24108,7 +23972,6 @@
         "number": 10
       },
       "speechIndex": 137,
-      "originID": "2017041562629",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:50:20.589000+00:00",
       "dateEnd": "2025-10-07T13:52:13.294000+00:00",
@@ -24222,7 +24085,6 @@
         "number": 10
       },
       "speechIndex": 138,
-      "originID": "2017041637051",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:06:34.509000+00:00",
       "dateEnd": "2025-10-07T14:07:32.223000+00:00",
@@ -24317,7 +24179,6 @@
         "number": 10
       },
       "speechIndex": 139,
-      "originID": "2017041637072",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:20:50+00:00",
       "dateEnd": "2025-10-07T14:21:50.817000+00:00",
@@ -24418,7 +24279,6 @@
         "number": 10
       },
       "speechIndex": 140,
-      "originID": "2017041637127",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:55:19.668000+00:00",
       "dateEnd": "2025-10-07T14:56:38.026000+00:00",
@@ -24576,7 +24436,6 @@
         "number": 10
       },
       "speechIndex": 141,
-      "originID": "2017041641349",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:08:22.375000+00:00",
       "dateEnd": "2025-10-07T15:09:33.426000+00:00",
@@ -24727,7 +24586,6 @@
         "number": 10
       },
       "speechIndex": 142,
-      "originID": "2017041641361",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:17:42.198000+00:00",
       "dateEnd": "2025-10-07T15:21:24.728000+00:00",
@@ -24899,7 +24757,6 @@
         "number": 12
       },
       "speechIndex": 143,
-      "originID": "2017041641392",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:43:18.185000+00:00",
       "dateEnd": "2025-10-07T15:44:39.550000+00:00",
@@ -25109,7 +24966,6 @@
         "number": 12
       },
       "speechIndex": 144,
-      "originID": "2017041641425",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:04:19.599000+00:00",
       "dateEnd": "2025-10-07T16:04:56.583000+00:00",
@@ -25229,7 +25085,6 @@
         "number": 12
       },
       "speechIndex": 145,
-      "originID": "2017041641442",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:15:13.848000+00:00",
       "dateEnd": "2025-10-07T16:16:20.442000+00:00",
@@ -25446,7 +25301,6 @@
         "number": 12
       },
       "speechIndex": 146,
-      "originID": "2017041650846",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:17:45.985000+00:00",
       "dateEnd": "2025-10-07T16:19:11.072000+00:00",
@@ -25664,7 +25518,6 @@
         "number": 13
       },
       "speechIndex": 147,
-      "originID": "2017041650892",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:15:27.359000+00:00",
       "dateEnd": "2025-10-07T17:16:39.763000+00:00",
@@ -25784,7 +25637,6 @@
         "number": 14
       },
       "speechIndex": 148,
-      "originID": "2017041657070",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:03:51.953000+00:00",
       "dateEnd": "2025-10-07T18:05:16.228000+00:00",
@@ -25923,7 +25775,6 @@
         "number": 14
       },
       "speechIndex": 149,
-      "originID": "2017041657076",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:06:46.745000+00:00",
       "dateEnd": "2025-10-07T18:08:11.861000+00:00",
@@ -26153,7 +26004,6 @@
         "number": 13
       },
       "speechIndex": 150,
-      "originID": "2017041657088",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:03:59.023000+00:00",
       "dateEnd": "2025-10-07T17:05:02.790000+00:00",
@@ -26311,7 +26161,6 @@
         "number": 14
       },
       "speechIndex": 151,
-      "originID": "2017041657096",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:13:55.491000+00:00",
       "dateEnd": "2025-10-07T18:15:12.549000+00:00",
@@ -26480,7 +26329,6 @@
         "number": 14
       },
       "speechIndex": 152,
-      "originID": "2017041657101",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:15:17.614000+00:00",
       "dateEnd": "2025-10-07T18:16:40.282000+00:00",
@@ -26626,7 +26474,6 @@
         "number": 14
       },
       "speechIndex": 153,
-      "originID": "2017041657110",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:18:53.966000+00:00",
       "dateEnd": "2025-10-07T18:19:41.904000+00:00",
@@ -26777,7 +26624,6 @@
         "number": 14
       },
       "speechIndex": 154,
-      "originID": "2017041657119",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:22:04.769000+00:00",
       "dateEnd": "2025-10-07T18:23:30.508000+00:00",
@@ -26984,7 +26830,6 @@
         "number": 14
       },
       "speechIndex": 155,
-      "originID": "2017041657123",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:25:03.426000+00:00",
       "dateEnd": "2025-10-07T18:26:23.106000+00:00",
@@ -27154,7 +26999,6 @@
         "number": 14
       },
       "speechIndex": 156,
-      "originID": "2017041661448",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:41:34.660000+00:00",
       "dateEnd": "2025-10-07T18:41:41.753000+00:00",
@@ -27244,7 +27088,6 @@
         "number": 15
       },
       "speechIndex": 157,
-      "originID": "2017041661454",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:47:40.628000+00:00",
       "dateEnd": "2025-10-07T18:53:17.175000+00:00",
@@ -27646,7 +27489,6 @@
         "number": 15
       },
       "speechIndex": 158,
-      "originID": "2017041661481",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:12:45.932000+00:00",
       "dateEnd": "2025-10-07T19:14:20.363000+00:00",
@@ -27840,7 +27682,6 @@
         "number": 15
       },
       "speechIndex": 159,
-      "originID": "2017041661483",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:14:27.548000+00:00",
       "dateEnd": "2025-10-07T19:15:39.350000+00:00",
@@ -28028,7 +27869,6 @@
         "number": 15
       },
       "speechIndex": 160,
-      "originID": "2017041661489",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:18:40.228000+00:00",
       "dateEnd": "2025-10-07T19:20:27.372000+00:00",
@@ -28237,7 +28077,6 @@
         "number": 15
       },
       "speechIndex": 161,
-      "originID": "2017041661493",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:21:57.641000+00:00",
       "dateEnd": "2025-10-07T19:23:21.159000+00:00",
@@ -28388,7 +28227,6 @@
         "number": 15
       },
       "speechIndex": 162,
-      "originID": "2017041661503",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:29:50.952000+00:00",
       "dateEnd": "2025-10-07T19:31:11.336000+00:00",
@@ -28595,7 +28433,6 @@
         "number": 15
       },
       "speechIndex": 163,
-      "originID": "2017041661509",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:33:57.015000+00:00",
       "dateEnd": "2025-10-07T19:36:23.948000+00:00",
@@ -28820,7 +28657,6 @@
         "number": 2
       },
       "speechIndex": 164,
-      "originID": "2017041478135",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:01:21+00:00",
       "dateEnd": "2025-10-07T07:01:39.463000+00:00",
@@ -28917,7 +28753,6 @@
         "number": 2
       },
       "speechIndex": 165,
-      "originID": "2017041532854",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:25:53.871000+00:00",
       "dateEnd": "2025-10-07T07:27:57.434000+00:00",
@@ -29135,7 +28970,6 @@
         "number": 2
       },
       "speechIndex": 166,
-      "originID": "2017041532860",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:32:02.239000+00:00",
       "dateEnd": "2025-10-07T07:33:30.417000+00:00",
@@ -29311,7 +29145,6 @@
         "number": 2
       },
       "speechIndex": 167,
-      "originID": "2017041532872",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:41:39.207000+00:00",
       "dateEnd": "2025-10-07T07:43:31.043000+00:00",
@@ -29482,7 +29315,6 @@
         "number": 2
       },
       "speechIndex": 168,
-      "originID": "2017041532886",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:51:51.511000+00:00",
       "dateEnd": "2025-10-07T07:53:45.972000+00:00",
@@ -29690,7 +29522,6 @@
         "number": 2
       },
       "speechIndex": 169,
-      "originID": "2017041532907",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:06:04.217000+00:00",
       "dateEnd": "2025-10-07T08:07:12.168000+00:00",
@@ -29822,7 +29653,6 @@
         "number": 2
       },
       "speechIndex": 170,
-      "originID": "2017041532916",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:11:32.777000+00:00",
       "dateEnd": "2025-10-07T08:12:41.844000+00:00",
@@ -29991,7 +29821,6 @@
         "number": 2
       },
       "speechIndex": 171,
-      "originID": "2017041532935",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:27:10.688000+00:00",
       "dateEnd": "2025-10-07T08:27:31.460000+00:00",
@@ -30106,7 +29935,6 @@
         "number": 4
       },
       "speechIndex": 172,
-      "originID": "2017041540369",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:27:39.175000+00:00",
       "dateEnd": "2025-10-07T09:29:01.010000+00:00",
@@ -30251,7 +30079,6 @@
         "number": 4
       },
       "speechIndex": 173,
-      "originID": "2017041540401",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:54:01.657000+00:00",
       "dateEnd": "2025-10-07T09:55:01.102000+00:00",
@@ -30439,7 +30266,6 @@
         "number": 4
       },
       "speechIndex": 174,
-      "originID": "2017041540417",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:02:49.074000+00:00",
       "dateEnd": "2025-10-07T10:03:47.546000+00:00",
@@ -30579,7 +30405,6 @@
         "number": 6
       },
       "speechIndex": 175,
-      "originID": "2017041554257",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:25:04.800000+00:00",
       "dateEnd": "2025-10-07T10:25:16.518000+00:00",
@@ -30683,7 +30508,6 @@
         "number": 6
       },
       "speechIndex": 176,
-      "originID": "2017041554261",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:26:41.040000+00:00",
       "dateEnd": "2025-10-07T10:27:03.118000+00:00",
@@ -30774,7 +30598,6 @@
         "number": 6
       },
       "speechIndex": 177,
-      "originID": "2017041554263",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:27:03.118000+00:00",
       "dateEnd": "2025-10-07T10:27:39.549000+00:00",
@@ -30865,7 +30688,6 @@
         "number": 6
       },
       "speechIndex": 178,
-      "originID": "2017041554264",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:27:39.549000+00:00",
       "dateEnd": "2025-10-07T10:27:59.323000+00:00",
@@ -30975,7 +30797,6 @@
         "number": 9
       },
       "speechIndex": 179,
-      "originID": "2017041554273",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:31:40+00:00",
       "dateEnd": "2025-10-07T10:34:25.500000+00:00",
@@ -31225,7 +31046,6 @@
         "number": 9
       },
       "speechIndex": 180,
-      "originID": "2017041554291",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:54:06.665000+00:00",
       "dateEnd": "2025-10-07T10:55:53.809000+00:00",
@@ -31461,7 +31281,6 @@
         "number": 9
       },
       "speechIndex": 181,
-      "originID": "2017041554295",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:57:06.883000+00:00",
       "dateEnd": "2025-10-07T10:58:58.459000+00:00",
@@ -31710,7 +31529,6 @@
         "number": 9
       },
       "speechIndex": 182,
-      "originID": "2017041554301",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:03:19.469000+00:00",
       "dateEnd": "2025-10-07T11:04:09.204000+00:00",
@@ -31891,7 +31709,6 @@
         "number": 9
       },
       "speechIndex": 183,
-      "originID": "2017041554307",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:06:18.853000+00:00",
       "dateEnd": "2025-10-07T11:07:27.802000+00:00",
@@ -32062,7 +31879,6 @@
         "number": 9
       },
       "speechIndex": 184,
-      "originID": "2017041554325",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:17:43.019000+00:00",
       "dateEnd": "2025-10-07T11:20:06.973000+00:00",
@@ -32334,7 +32150,6 @@
         "number": 9
       },
       "speechIndex": 185,
-      "originID": "2017041554335",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:25:50.123000+00:00",
       "dateEnd": "2025-10-07T11:27:08.494000+00:00",
@@ -32539,7 +32354,6 @@
         "number": 9
       },
       "speechIndex": 186,
-      "originID": "2017041554342",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:30:00.107000+00:00",
       "dateEnd": "2025-10-07T11:31:51.708000+00:00",
@@ -32690,7 +32504,6 @@
         "number": 9
       },
       "speechIndex": 187,
-      "originID": "2017041557571",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:44:57.051000+00:00",
       "dateEnd": "2025-10-07T11:47:11.318000+00:00",
@@ -32964,7 +32777,6 @@
         "number": 9
       },
       "speechIndex": 188,
-      "originID": "2017041557582",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:17:28.657000+00:00",
       "dateEnd": "2025-10-07T11:17:33.357000+00:00",
@@ -33066,7 +32878,6 @@
         "number": 9
       },
       "speechIndex": 189,
-      "originID": "2017041557600",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:04:15.277000+00:00",
       "dateEnd": "2025-10-07T12:05:25.606000+00:00",
@@ -33230,7 +33041,6 @@
         "number": 9
       },
       "speechIndex": 190,
-      "originID": "2017041557608",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:07:47.856000+00:00",
       "dateEnd": "2025-10-07T12:09:06.130000+00:00",
@@ -33435,7 +33245,6 @@
         "number": 9
       },
       "speechIndex": 191,
-      "originID": "2017041557616",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:13:29.201000+00:00",
       "dateEnd": "2025-10-07T12:14:48.277000+00:00",
@@ -33592,7 +33401,6 @@
         "number": 9
       },
       "speechIndex": 192,
-      "originID": "2017041557622",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:17:40.086000+00:00",
       "dateEnd": "2025-10-07T12:19:01.749000+00:00",
@@ -33871,7 +33679,6 @@
         "number": 9
       },
       "speechIndex": 193,
-      "originID": "2017041557626",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:20:33.429000+00:00",
       "dateEnd": "2025-10-07T12:21:39.690000+00:00",
@@ -34021,7 +33828,6 @@
         "number": 9
       },
       "speechIndex": 194,
-      "originID": "2017041557628",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:21:41.906000+00:00",
       "dateEnd": "2025-10-07T12:22:49.668000+00:00",
@@ -34221,7 +34027,6 @@
         "number": 9
       },
       "speechIndex": 195,
-      "originID": "2017041557630",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:22:55.878000+00:00",
       "dateEnd": "2025-10-07T12:24:15.412000+00:00",
@@ -34422,7 +34227,6 @@
         "number": 9
       },
       "speechIndex": 196,
-      "originID": "2017041557634",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:25:55.732000+00:00",
       "dateEnd": "2025-10-07T12:27:10.301000+00:00",
@@ -34592,7 +34396,6 @@
         "number": 9
       },
       "speechIndex": 197,
-      "originID": "2017041557638",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:28:32.380000+00:00",
       "dateEnd": "2025-10-07T12:29:45.369000+00:00",
@@ -34840,7 +34643,6 @@
         "number": 9
       },
       "speechIndex": 198,
-      "originID": "2017041562547",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:33:55.714000+00:00",
       "dateEnd": "2025-10-07T12:34:53.389000+00:00",
@@ -34997,7 +34799,6 @@
         "number": 10
       },
       "speechIndex": 199,
-      "originID": "2017041562565",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:48:55.975000+00:00",
       "dateEnd": "2025-10-07T12:49:42.514000+00:00",
@@ -35100,7 +34901,6 @@
         "number": 10
       },
       "speechIndex": 200,
-      "originID": "2017041562602",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:31:37.152000+00:00",
       "dateEnd": "2025-10-07T13:32:13.025000+00:00",
@@ -35220,7 +35020,6 @@
         "number": 10
       },
       "speechIndex": 201,
-      "originID": "2017041562635",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:54:35.890000+00:00",
       "dateEnd": "2025-10-07T13:55:51.501000+00:00",
@@ -35359,7 +35158,6 @@
         "number": 10
       },
       "speechIndex": 202,
-      "originID": "2017041562639",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:57:20.313000+00:00",
       "dateEnd": "2025-10-07T13:58:30.011000+00:00",
@@ -35460,7 +35258,6 @@
         "number": 10
       },
       "speechIndex": 203,
-      "originID": "2017041637058",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:10:50.752000+00:00",
       "dateEnd": "2025-10-07T14:12:16.647000+00:00",
@@ -35592,7 +35389,6 @@
         "number": 10
       },
       "speechIndex": 204,
-      "originID": "2017041637066",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:16:12.079000+00:00",
       "dateEnd": "2025-10-07T14:17:40.680000+00:00",
@@ -35725,7 +35521,6 @@
         "number": 10
       },
       "speechIndex": 205,
-      "originID": "2017041637080",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:26:21.630000+00:00",
       "dateEnd": "2025-10-07T14:27:40.748000+00:00",
@@ -35839,7 +35634,6 @@
         "number": 10
       },
       "speechIndex": 206,
-      "originID": "2017041637091",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:33:33.590000+00:00",
       "dateEnd": "2025-10-07T14:34:40.239000+00:00",
@@ -36032,7 +35826,6 @@
         "number": 10
       },
       "speechIndex": 207,
-      "originID": "2017041637104",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:43:04.702000+00:00",
       "dateEnd": "2025-10-07T14:44:22.441000+00:00",
@@ -36178,7 +35971,6 @@
         "number": 10
       },
       "speechIndex": 208,
-      "originID": "2017041637120",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:52:22.404000+00:00",
       "dateEnd": "2025-10-07T14:53:46.385000+00:00",
@@ -36378,7 +36170,6 @@
         "number": 10
       },
       "speechIndex": 209,
-      "originID": "2017041637129",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:57:01.338000+00:00",
       "dateEnd": "2025-10-07T14:58:06.671000+00:00",
@@ -36518,7 +36309,6 @@
         "number": 10
       },
       "speechIndex": 210,
-      "originID": "2017041637136",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:00:43.237000+00:00",
       "dateEnd": "2025-10-07T15:01:35.081000+00:00",
@@ -36633,7 +36423,6 @@
         "number": 10
       },
       "speechIndex": 211,
-      "originID": "2017041641345",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:05:45.342000+00:00",
       "dateEnd": "2025-10-07T15:06:56.327000+00:00",
@@ -36784,7 +36573,6 @@
         "number": 10
       },
       "speechIndex": 212,
-      "originID": "2017041641356",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:12:26.634000+00:00",
       "dateEnd": "2025-10-07T15:14:57.688000+00:00",
@@ -36948,7 +36736,6 @@
         "number": 11
       },
       "speechIndex": 213,
-      "originID": "2017041641364",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:21:27.600000+00:00",
       "dateEnd": "2025-10-07T15:21:48.186000+00:00",
@@ -37044,7 +36831,6 @@
         "number": 12
       },
       "speechIndex": 214,
-      "originID": "2017041641368",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:27:11.708000+00:00",
       "dateEnd": "2025-10-07T15:29:13.646000+00:00",
@@ -37275,7 +37061,6 @@
         "number": 12
       },
       "speechIndex": 215,
-      "originID": "2017041641371",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:29:18.045000+00:00",
       "dateEnd": "2025-10-07T15:30:48.237000+00:00",
@@ -37440,7 +37225,6 @@
         "number": 12
       },
       "speechIndex": 216,
-      "originID": "2017041641373",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:21:48.186000+00:00",
       "dateEnd": "2025-10-07T15:22:04.510000+00:00",
@@ -37543,7 +37327,6 @@
         "number": 12
       },
       "speechIndex": 217,
-      "originID": "2017041641375",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:30:51.088000+00:00",
       "dateEnd": "2025-10-07T15:32:23.467000+00:00",
@@ -37767,7 +37550,6 @@
         "number": 12
       },
       "speechIndex": 218,
-      "originID": "2017041641381",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:35:44.969000+00:00",
       "dateEnd": "2025-10-07T15:36:50.305000+00:00",
@@ -37918,7 +37700,6 @@
         "number": 12
       },
       "speechIndex": 219,
-      "originID": "2017041641396",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:45:38.713000+00:00",
       "dateEnd": "2025-10-07T15:46:25.966000+00:00",
@@ -38062,7 +37843,6 @@
         "number": 12
       },
       "speechIndex": 220,
-      "originID": "2017041641400",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:47:55.274000+00:00",
       "dateEnd": "2025-10-07T15:49:23.337000+00:00",
@@ -38304,7 +38084,6 @@
         "number": 12
       },
       "speechIndex": 221,
-      "originID": "2017041641410",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:54:22.821000+00:00",
       "dateEnd": "2025-10-07T15:55:02.320000+00:00",
@@ -38430,7 +38209,6 @@
         "number": 12
       },
       "speechIndex": 222,
-      "originID": "2017041641420",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:00:43.510000+00:00",
       "dateEnd": "2025-10-07T16:02:05.164000+00:00",
@@ -38642,7 +38420,6 @@
         "number": 12
       },
       "speechIndex": 223,
-      "originID": "2017041641422",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:02:14.505000+00:00",
       "dateEnd": "2025-10-07T16:03:41.093000+00:00",
@@ -38859,7 +38636,6 @@
         "number": 12
       },
       "speechIndex": 224,
-      "originID": "2017041641429",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:06:50.078000+00:00",
       "dateEnd": "2025-10-07T16:08:18.784000+00:00",
@@ -39017,7 +38793,6 @@
         "number": 12
       },
       "speechIndex": 225,
-      "originID": "2017041650848",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:19:22.389000+00:00",
       "dateEnd": "2025-10-07T16:20:18.075000+00:00",
@@ -39222,7 +38997,6 @@
         "number": 12
       },
       "speechIndex": 226,
-      "originID": "2017041650852",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:21:53.848000+00:00",
       "dateEnd": "2025-10-07T16:22:47.214000+00:00",
@@ -39427,7 +39201,6 @@
         "number": 12
       },
       "speechIndex": 227,
-      "originID": "2017041650857",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:24:34.874000+00:00",
       "dateEnd": "2025-10-07T16:25:45.617000+00:00",
@@ -39627,7 +39400,6 @@
         "number": 12
       },
       "speechIndex": 228,
-      "originID": "2017041650859",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:25:48.381000+00:00",
       "dateEnd": "2025-10-07T16:27:01.245000+00:00",
@@ -39833,7 +39605,6 @@
         "number": 12
       },
       "speechIndex": 229,
-      "originID": "2017041650863",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:28:30.897000+00:00",
       "dateEnd": "2025-10-07T16:29:31.487000+00:00",
@@ -40049,7 +39820,6 @@
         "number": 12
       },
       "speechIndex": 230,
-      "originID": "2017041650876",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:36:19.068000+00:00",
       "dateEnd": "2025-10-07T16:37:23.855000+00:00",
@@ -40269,7 +40039,6 @@
         "number": 12
       },
       "speechIndex": 231,
-      "originID": "2017041650882",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:40:20.719000+00:00",
       "dateEnd": "2025-10-07T16:40:29.810000+00:00",
@@ -40366,7 +40135,6 @@
         "number": 13
       },
       "speechIndex": 232,
-      "originID": "2017041650883",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:40:29.810000+00:00",
       "dateEnd": "2025-10-07T16:40:48.699000+00:00",
@@ -40464,7 +40232,6 @@
         "number": 13
       },
       "speechIndex": 233,
-      "originID": "2017041650894",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:16:45.476000+00:00",
       "dateEnd": "2025-10-07T17:18:11.679000+00:00",
@@ -40634,7 +40401,6 @@
         "number": 13
       },
       "speechIndex": 234,
-      "originID": "2017041650911",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:25:13.492000+00:00",
       "dateEnd": "2025-10-07T17:26:14.210000+00:00",
@@ -40755,7 +40521,6 @@
         "number": 13
       },
       "speechIndex": 235,
-      "originID": "2017041650913",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:26:18.629000+00:00",
       "dateEnd": "2025-10-07T17:27:35.486000+00:00",
@@ -40919,7 +40684,6 @@
         "number": 13
       },
       "speechIndex": 236,
-      "originID": "2017041650922",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:31:12.269000+00:00",
       "dateEnd": "2025-10-07T17:32:33.497000+00:00",
@@ -41107,7 +40871,6 @@
         "number": 13
       },
       "speechIndex": 237,
-      "originID": "2017041650932",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:36:28.659000+00:00",
       "dateEnd": "2025-10-07T17:37:53.864000+00:00",
@@ -41245,7 +41008,6 @@
         "number": 13
       },
       "speechIndex": 238,
-      "originID": "2017041650934",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:38:06.305000+00:00",
       "dateEnd": "2025-10-07T17:42:44.103000+00:00",
@@ -41497,7 +41259,6 @@
         "number": 14
       },
       "speechIndex": 239,
-      "originID": "2017041657054",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:55:39.965000+00:00",
       "dateEnd": "2025-10-07T17:57:21.846000+00:00",
@@ -41741,7 +41502,6 @@
         "number": 14
       },
       "speechIndex": 240,
-      "originID": "2017041657058",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:57:28.632000+00:00",
       "dateEnd": "2025-10-07T17:59:05.763000+00:00",
@@ -41928,7 +41688,6 @@
         "number": 14
       },
       "speechIndex": 241,
-      "originID": "2017041657062",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:59:16.665000+00:00",
       "dateEnd": "2025-10-07T18:00:36.525000+00:00",
@@ -42104,7 +41863,6 @@
         "number": 13
       },
       "speechIndex": 242,
-      "originID": "2017041657071",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:58:32.052000+00:00",
       "dateEnd": "2025-10-07T16:58:59.313000+00:00",
@@ -42195,7 +41953,6 @@
         "number": 14
       },
       "speechIndex": 243,
-      "originID": "2017041657084",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:09:25.932000+00:00",
       "dateEnd": "2025-10-07T18:11:04.672000+00:00",
@@ -42365,7 +42122,6 @@
         "number": 13
       },
       "speechIndex": 244,
-      "originID": "2017041657093",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:05:10.125000+00:00",
       "dateEnd": "2025-10-07T17:06:01.339000+00:00",
@@ -42491,7 +42247,6 @@
         "number": 13
       },
       "speechIndex": 245,
-      "originID": "2017041657097",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:06:06.803000+00:00",
       "dateEnd": "2025-10-07T17:07:22.468000+00:00",
@@ -42649,7 +42404,6 @@
         "number": 13
       },
       "speechIndex": 246,
-      "originID": "2017041657102",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:07:28.460000+00:00",
       "dateEnd": "2025-10-07T17:08:36.535000+00:00",
@@ -42769,7 +42523,6 @@
         "number": 14
       },
       "speechIndex": 247,
-      "originID": "2017041657108",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:18:11.041000+00:00",
       "dateEnd": "2025-10-07T18:18:56.198000+00:00",
@@ -42894,7 +42647,6 @@
         "number": 14
       },
       "speechIndex": 248,
-      "originID": "2017041657138",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:33:49.531000+00:00",
       "dateEnd": "2025-10-07T18:35:23.958000+00:00",
@@ -43082,7 +42834,6 @@
         "number": 15
       },
       "speechIndex": 249,
-      "originID": "2017041661456",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:53:21.581000+00:00",
       "dateEnd": "2025-10-07T18:54:46.289000+00:00",
@@ -43288,7 +43039,6 @@
         "number": 15
       },
       "speechIndex": 250,
-      "originID": "2017041661460",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:56:23.177000+00:00",
       "dateEnd": "2025-10-07T18:58:15.462000+00:00",
@@ -43512,7 +43262,6 @@
         "number": 15
       },
       "speechIndex": 251,
-      "originID": "2017041661470",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:04:23.928000+00:00",
       "dateEnd": "2025-10-07T19:05:51.384000+00:00",
@@ -43676,7 +43425,6 @@
         "number": 15
       },
       "speechIndex": 252,
-      "originID": "2017041661474",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:07:40.490000+00:00",
       "dateEnd": "2025-10-07T19:08:53.724000+00:00",
@@ -43864,7 +43612,6 @@
         "number": 15
       },
       "speechIndex": 253,
-      "originID": "2017041661478",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:10:52.983000+00:00",
       "dateEnd": "2025-10-07T19:11:36.450000+00:00",
@@ -44014,7 +43761,6 @@
         "number": 15
       },
       "speechIndex": 254,
-      "originID": "2017041661485",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:15:45.261000+00:00",
       "dateEnd": "2025-10-07T19:17:06.349000+00:00",
@@ -44283,7 +44029,6 @@
         "number": 15
       },
       "speechIndex": 255,
-      "originID": "2017041661510",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:36:23.126000+00:00",
       "dateEnd": "2025-10-07T19:36:29.635000+00:00",
@@ -44379,7 +44124,6 @@
         "number": 17
       },
       "speechIndex": 256,
-      "originID": "2017041661512",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:36:29.736000+00:00",
       "dateEnd": "2025-10-07T19:36:42.100000+00:00",
@@ -44469,7 +44213,6 @@
         "number": 2
       },
       "speechIndex": 257,
-      "originID": "2017041478138",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:06:44.400000+00:00",
       "dateEnd": "2025-10-07T07:12:33.638000+00:00",
@@ -44769,7 +44512,6 @@
         "number": 2
       },
       "speechIndex": 258,
-      "originID": "2017041532852",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:24:08.342000+00:00",
       "dateEnd": "2025-10-07T07:25:45.644000+00:00",
@@ -44921,7 +44663,6 @@
         "number": 2
       },
       "speechIndex": 259,
-      "originID": "2017041532921",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:13:56.669000+00:00",
       "dateEnd": "2025-10-07T08:15:08.750000+00:00",
@@ -45097,7 +44838,6 @@
         "number": 2
       },
       "speechIndex": 260,
-      "originID": "2017041532929",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:18:57.552000+00:00",
       "dateEnd": "2025-10-07T08:19:54.139000+00:00",
@@ -45260,7 +45000,6 @@
         "number": 2
       },
       "speechIndex": 261,
-      "originID": "2017041532933",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:25:14.961000+00:00",
       "dateEnd": "2025-10-07T08:25:42.737000+00:00",
@@ -45351,7 +45090,6 @@
         "number": 2
       },
       "speechIndex": 262,
-      "originID": "2017041532934",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:25:41.635000+00:00",
       "dateEnd": "2025-10-07T08:27:09.813000+00:00",
@@ -45515,7 +45253,6 @@
         "number": 4
       },
       "speechIndex": 263,
-      "originID": "2017041532943",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:41:46.481000+00:00",
       "dateEnd": "2025-10-07T08:44:47.148000+00:00",
@@ -45766,7 +45503,6 @@
         "number": 4
       },
       "speechIndex": 264,
-      "originID": "2017041540351",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:03:23.482000+00:00",
       "dateEnd": "2025-10-07T09:07:10.311000+00:00",
@@ -46193,7 +45929,6 @@
         "number": 4
       },
       "speechIndex": 265,
-      "originID": "2017041540355",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:10:34.530000+00:00",
       "dateEnd": "2025-10-07T09:12:34.055000+00:00",
@@ -46405,7 +46140,6 @@
         "number": 4
       },
       "speechIndex": 266,
-      "originID": "2017041540367",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:25:37.349000+00:00",
       "dateEnd": "2025-10-07T09:27:34.406000+00:00",
@@ -46618,7 +46352,6 @@
         "number": 4
       },
       "speechIndex": 267,
-      "originID": "2017041540381",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:39:34.420000+00:00",
       "dateEnd": "2025-10-07T09:40:49.924000+00:00",
@@ -46853,7 +46586,6 @@
         "number": 4
       },
       "speechIndex": 268,
-      "originID": "2017041540385",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:42:13.636000+00:00",
       "dateEnd": "2025-10-07T09:44:11.010000+00:00",
@@ -47120,7 +46852,6 @@
         "number": 4
       },
       "speechIndex": 269,
-      "originID": "2017041540387",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:44:15.169000+00:00",
       "dateEnd": "2025-10-07T09:45:20.904000+00:00",
@@ -47307,7 +47038,6 @@
         "number": 6
       },
       "speechIndex": 270,
-      "originID": "2017041554253",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:22:28.291000+00:00",
       "dateEnd": "2025-10-07T10:24:01.994000+00:00",
@@ -47465,7 +47195,6 @@
         "number": 9
       },
       "speechIndex": 271,
-      "originID": "2017041554272",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:30:50.600000+00:00",
       "dateEnd": "2025-10-07T10:31:40+00:00",
@@ -47582,7 +47311,6 @@
         "number": 9
       },
       "speechIndex": 272,
-      "originID": "2017041554303",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:04:17.406000+00:00",
       "dateEnd": "2025-10-07T11:04:57.086000+00:00",
@@ -47714,7 +47442,6 @@
         "number": 9
       },
       "speechIndex": 273,
-      "originID": "2017041554323",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:17:04.643000+00:00",
       "dateEnd": "2025-10-07T11:17:18+00:00",
@@ -47812,7 +47539,6 @@
         "number": 9
       },
       "speechIndex": 274,
-      "originID": "2017041554327",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:20:12.122000+00:00",
       "dateEnd": "2025-10-07T11:21:21.781000+00:00",
@@ -47982,7 +47708,6 @@
         "number": 9
       },
       "speechIndex": 275,
-      "originID": "2017041557588",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:56:54.708000+00:00",
       "dateEnd": "2025-10-07T11:58:03.784000+00:00",
@@ -48158,7 +47883,6 @@
         "number": 9
       },
       "speechIndex": 276,
-      "originID": "2017041557592",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:59:18.173000+00:00",
       "dateEnd": "2025-10-07T12:00:39.268000+00:00",
@@ -48341,7 +48065,6 @@
         "number": 9
       },
       "speechIndex": 277,
-      "originID": "2017041557595",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:00:43.357000+00:00",
       "dateEnd": "2025-10-07T12:02:55.137000+00:00",
@@ -48510,7 +48233,6 @@
         "number": 9
       },
       "speechIndex": 278,
-      "originID": "2017041557601",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:17:18+00:00",
       "dateEnd": "2025-10-07T11:17:21.662000+00:00",
@@ -48605,7 +48327,6 @@
         "number": 9
       },
       "speechIndex": 279,
-      "originID": "2017041557612",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:10:44.822000+00:00",
       "dateEnd": "2025-10-07T12:11:57.545000+00:00",
@@ -48786,7 +48507,6 @@
         "number": 9
       },
       "speechIndex": 280,
-      "originID": "2017041557631",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:24:12.622000+00:00",
       "dateEnd": "2025-10-07T12:24:26.876000+00:00",
@@ -48877,7 +48597,6 @@
         "number": 9
       },
       "speechIndex": 281,
-      "originID": "2017041557632",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:24:26.876000+00:00",
       "dateEnd": "2025-10-07T12:25:51.828000+00:00",
@@ -49041,7 +48760,6 @@
         "number": 9
       },
       "speechIndex": 282,
-      "originID": "2017041557643",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:31:30.625000+00:00",
       "dateEnd": "2025-10-07T12:32:35.932000+00:00",
@@ -49193,7 +48911,6 @@
         "number": 10
       },
       "speechIndex": 283,
-      "originID": "2017041562570",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:59:08.422000+00:00",
       "dateEnd": "2025-10-07T13:04:34.326000+00:00",
@@ -49397,7 +49114,6 @@
         "number": 10
       },
       "speechIndex": 284,
-      "originID": "2017041562587",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:19:15.952000+00:00",
       "dateEnd": "2025-10-07T13:20:23.031000+00:00",
@@ -49542,7 +49258,6 @@
         "number": 10
       },
       "speechIndex": 285,
-      "originID": "2017041562589",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:20:28.678000+00:00",
       "dateEnd": "2025-10-07T13:22:08.229000+00:00",
@@ -49668,7 +49383,6 @@
         "number": 10
       },
       "speechIndex": 286,
-      "originID": "2017041562608",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:35:01.159000+00:00",
       "dateEnd": "2025-10-07T13:36:17.143000+00:00",
@@ -49787,7 +49501,6 @@
         "number": 10
       },
       "speechIndex": 287,
-      "originID": "2017041562617",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:41:38.680000+00:00",
       "dateEnd": "2025-10-07T13:43:26.700000+00:00",
@@ -50011,7 +49724,6 @@
         "number": 10
       },
       "speechIndex": 288,
-      "originID": "2017041637046",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:03:22.317000+00:00",
       "dateEnd": "2025-10-07T14:05:06.326000+00:00",
@@ -50174,7 +49886,6 @@
         "number": 10
       },
       "speechIndex": 289,
-      "originID": "2017041637053",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:07:38.047000+00:00",
       "dateEnd": "2025-10-07T14:08:55.446000+00:00",
@@ -50301,7 +50012,6 @@
         "number": 10
       },
       "speechIndex": 290,
-      "originID": "2017041637089",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:32:00.596000+00:00",
       "dateEnd": "2025-10-07T14:33:30.240000+00:00",
@@ -50422,7 +50132,6 @@
         "number": 10
       },
       "speechIndex": 291,
-      "originID": "2017041637093",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:34:43.411000+00:00",
       "dateEnd": "2025-10-07T14:36:16.936000+00:00",
@@ -50585,7 +50294,6 @@
         "number": 10
       },
       "speechIndex": 292,
-      "originID": "2017041637131",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:58:10.820000+00:00",
       "dateEnd": "2025-10-07T14:59:21.227000+00:00",
@@ -50719,7 +50427,6 @@
         "number": 10
       },
       "speechIndex": 293,
-      "originID": "2017041637134",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:59:22.925000+00:00",
       "dateEnd": "2025-10-07T15:00:37.969000+00:00",
@@ -50883,7 +50590,6 @@
         "number": 12
       },
       "speechIndex": 294,
-      "originID": "2017041641366",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:22:04.510000+00:00",
       "dateEnd": "2025-10-07T15:27:08.979000+00:00",
@@ -51316,7 +51022,6 @@
         "number": 12
       },
       "speechIndex": 295,
-      "originID": "2017041641377",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:32:26.957000+00:00",
       "dateEnd": "2025-10-07T15:33:30.500000+00:00",
@@ -51502,7 +51207,6 @@
         "number": 12
       },
       "speechIndex": 296,
-      "originID": "2017041641390",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:41:44.730000+00:00",
       "dateEnd": "2025-10-07T15:43:13.124000+00:00",
@@ -51684,7 +51388,6 @@
         "number": 12
       },
       "speechIndex": 297,
-      "originID": "2017041641398",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:46:29.679000+00:00",
       "dateEnd": "2025-10-07T15:47:52.659000+00:00",
@@ -51884,7 +51587,6 @@
         "number": 12
       },
       "speechIndex": 298,
-      "originID": "2017041641402",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:49:27.315000+00:00",
       "dateEnd": "2025-10-07T15:51:04.526000+00:00",
@@ -52128,7 +51830,6 @@
         "number": 12
       },
       "speechIndex": 299,
-      "originID": "2017041641413",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:55:59.355000+00:00",
       "dateEnd": "2025-10-07T15:57:33.742000+00:00",
@@ -52351,7 +52052,6 @@
         "number": 12
       },
       "speechIndex": 300,
-      "originID": "2017041641424",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:03:45.975000+00:00",
       "dateEnd": "2025-10-07T16:04:19.426000+00:00",
@@ -52489,7 +52189,6 @@
         "number": 12
       },
       "speechIndex": 301,
-      "originID": "2017041641427",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:05:00.139000+00:00",
       "dateEnd": "2025-10-07T16:06:46.753000+00:00",
@@ -52703,7 +52402,6 @@
         "number": 13
       },
       "speechIndex": 302,
-      "originID": "2017041650890",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:14:05.948000+00:00",
       "dateEnd": "2025-10-07T17:15:21.369000+00:00",
@@ -52867,7 +52565,6 @@
         "number": 13
       },
       "speechIndex": 303,
-      "originID": "2017041650896",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:18:16.260000+00:00",
       "dateEnd": "2025-10-07T17:19:35.322000+00:00",
@@ -53018,7 +52715,6 @@
         "number": 13
       },
       "speechIndex": 304,
-      "originID": "2017041650899",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:20:11.771000+00:00",
       "dateEnd": "2025-10-07T17:20:48.906000+00:00",
@@ -53132,7 +52828,6 @@
         "number": 13
       },
       "speechIndex": 305,
-      "originID": "2017041650936",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:50:43.302000+00:00",
       "dateEnd": "2025-10-07T16:52:13.333000+00:00",
@@ -53271,7 +52966,6 @@
         "number": 13
       },
       "speechIndex": 306,
-      "originID": "2017041650939",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:43:40.370000+00:00",
       "dateEnd": "2025-10-07T17:43:56.464000+00:00",
@@ -53375,7 +53069,6 @@
         "number": 13
       },
       "speechIndex": 307,
-      "originID": "2017041657111",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:09:54.281000+00:00",
       "dateEnd": "2025-10-07T17:11:16.038000+00:00",
@@ -53556,7 +53249,6 @@
         "number": 14
       },
       "speechIndex": 308,
-      "originID": "2017041657112",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:19:41.246000+00:00",
       "dateEnd": "2025-10-07T18:19:56.825000+00:00",
@@ -53660,7 +53352,6 @@
         "number": 14
       },
       "speechIndex": 309,
-      "originID": "2017041657142",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:37:10.268000+00:00",
       "dateEnd": "2025-10-07T18:38:34.432000+00:00",
@@ -53836,7 +53527,6 @@
         "number": 15
       },
       "speechIndex": 310,
-      "originID": "2017041661458",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:54:48.484000+00:00",
       "dateEnd": "2025-10-07T18:56:16.722000+00:00",
@@ -54006,7 +53696,6 @@
         "number": 15
       },
       "speechIndex": 311,
-      "originID": "2017041661464",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:59:35.298000+00:00",
       "dateEnd": "2025-10-07T19:01:06.956000+00:00",
@@ -54213,7 +53902,6 @@
         "number": 15
       },
       "speechIndex": 312,
-      "originID": "2017041661472",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:05:55.022000+00:00",
       "dateEnd": "2025-10-07T19:07:37.140000+00:00",
@@ -54444,7 +54132,6 @@
         "number": 2
       },
       "speechIndex": 313,
-      "originID": "2017041478140",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:12:41.912000+00:00",
       "dateEnd": "2025-10-07T07:15:06.669000+00:00",
@@ -54634,7 +54321,6 @@
         "number": 2
       },
       "speechIndex": 314,
-      "originID": "2017041532862",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:33:45.278000+00:00",
       "dateEnd": "2025-10-07T07:35:06.869000+00:00",
@@ -54786,7 +54472,6 @@
         "number": 2
       },
       "speechIndex": 315,
-      "originID": "2017041532876",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:45:08.494000+00:00",
       "dateEnd": "2025-10-07T07:46:28.230000+00:00",
@@ -54931,7 +54616,6 @@
         "number": 2
       },
       "speechIndex": 316,
-      "originID": "2017041532878",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:46:32.639000+00:00",
       "dateEnd": "2025-10-07T07:47:42.307000+00:00",
@@ -55064,7 +54748,6 @@
         "number": 2
       },
       "speechIndex": 317,
-      "originID": "2017041532905",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:04:37.213000+00:00",
       "dateEnd": "2025-10-07T08:05:58.224000+00:00",
@@ -55257,7 +54940,6 @@
         "number": 2
       },
       "speechIndex": 318,
-      "originID": "2017041532913",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:10:07.592000+00:00",
       "dateEnd": "2025-10-07T08:11:22.506000+00:00",
@@ -55383,7 +55065,6 @@
         "number": 2
       },
       "speechIndex": 319,
-      "originID": "2017041532919",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:12:48.788000+00:00",
       "dateEnd": "2025-10-07T08:13:52.619000+00:00",
@@ -55547,7 +55228,6 @@
         "number": 2
       },
       "speechIndex": 320,
-      "originID": "2017041532925",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:16:29.533000+00:00",
       "dateEnd": "2025-10-07T08:17:43.013000+00:00",
@@ -55704,7 +55384,6 @@
         "number": 2
       },
       "speechIndex": 321,
-      "originID": "2017041532932",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:20:05.227000+00:00",
       "dateEnd": "2025-10-07T08:25:15.336000+00:00",
@@ -55923,7 +55602,6 @@
         "number": 4
       },
       "speechIndex": 322,
-      "originID": "2017041540345",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:44:47.148000+00:00",
       "dateEnd": "2025-10-07T09:03:13.329000+00:00",
@@ -56720,7 +56398,6 @@
         "number": 4
       },
       "speechIndex": 323,
-      "originID": "2017041540357",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:12:45.252000+00:00",
       "dateEnd": "2025-10-07T09:15:07.563000+00:00",
@@ -57054,7 +56731,6 @@
         "number": 4
       },
       "speechIndex": 324,
-      "originID": "2017041540359",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:15:11.335000+00:00",
       "dateEnd": "2025-10-07T09:17:28.492000+00:00",
@@ -57302,7 +56978,6 @@
         "number": 4
       },
       "speechIndex": 325,
-      "originID": "2017041540371",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:29:05.346000+00:00",
       "dateEnd": "2025-10-07T09:31:02.238000+00:00",
@@ -57501,7 +57176,6 @@
         "number": 4
       },
       "speechIndex": 326,
-      "originID": "2017041540375",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:32:34.152000+00:00",
       "dateEnd": "2025-10-07T09:35:37.808000+00:00",
@@ -57793,7 +57467,6 @@
         "number": 4
       },
       "speechIndex": 327,
-      "originID": "2017041540389",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:45:26.019000+00:00",
       "dateEnd": "2025-10-07T09:46:42.737000+00:00",
@@ -57980,7 +57653,6 @@
         "number": 4
       },
       "speechIndex": 328,
-      "originID": "2017041540391",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:46:48.987000+00:00",
       "dateEnd": "2025-10-07T09:48:02.911000+00:00",
@@ -58137,7 +57809,6 @@
         "number": 4
       },
       "speechIndex": 329,
-      "originID": "2017041540397",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:51:17.052000+00:00",
       "dateEnd": "2025-10-07T09:52:34.890000+00:00",
@@ -58289,7 +57960,6 @@
         "number": 4
       },
       "speechIndex": 330,
-      "originID": "2017041540405",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T09:56:18.425000+00:00",
       "dateEnd": "2025-10-07T09:57:27.370000+00:00",
@@ -58478,7 +58148,6 @@
         "number": 4
       },
       "speechIndex": 331,
-      "originID": "2017041540415",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:01:26.328000+00:00",
       "dateEnd": "2025-10-07T10:02:37.061000+00:00",
@@ -58622,7 +58291,6 @@
         "number": 4
       },
       "speechIndex": 332,
-      "originID": "2017041540419",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:03:52.123000+00:00",
       "dateEnd": "2025-10-07T10:05:02.755000+00:00",
@@ -58847,7 +58515,6 @@
         "number": 4
       },
       "speechIndex": 333,
-      "originID": "2017041540428",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:09:48.063000+00:00",
       "dateEnd": "2025-10-07T10:10:20.674000+00:00",
@@ -58945,7 +58612,6 @@
         "number": 6
       },
       "speechIndex": 334,
-      "originID": "2017041540434",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:18:45.232000+00:00",
       "dateEnd": "2025-10-07T10:18:49.457000+00:00",
@@ -59036,7 +58702,6 @@
         "number": 6
       },
       "speechIndex": 335,
-      "originID": "2017041554247",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:21:09.650000+00:00",
       "dateEnd": "2025-10-07T10:21:32.962000+00:00",
@@ -59134,7 +58799,6 @@
         "number": 6
       },
       "speechIndex": 336,
-      "originID": "2017041554248",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:21:32.962000+00:00",
       "dateEnd": "2025-10-07T10:21:54.082000+00:00",
@@ -59236,7 +58900,6 @@
         "number": 6
       },
       "speechIndex": 337,
-      "originID": "2017041554258",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:25:16.518000+00:00",
       "dateEnd": "2025-10-07T10:26:41.092000+00:00",
@@ -59362,7 +59025,6 @@
         "number": 9
       },
       "speechIndex": 338,
-      "originID": "2017041554281",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:44:17.432000+00:00",
       "dateEnd": "2025-10-07T10:47:11.748000+00:00",
@@ -59655,7 +59317,6 @@
         "number": 9
       },
       "speechIndex": 339,
-      "originID": "2017041554287",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:50:35.915000+00:00",
       "dateEnd": "2025-10-07T10:52:19.565000+00:00",
@@ -59903,7 +59564,6 @@
         "number": 9
       },
       "speechIndex": 340,
-      "originID": "2017041554293",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:55:58.779000+00:00",
       "dateEnd": "2025-10-07T10:57:03.113000+00:00",
@@ -60126,7 +59786,6 @@
         "number": 9
       },
       "speechIndex": 341,
-      "originID": "2017041554314",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:10:51.687000+00:00",
       "dateEnd": "2025-10-07T11:11:37.956000+00:00",
@@ -60240,7 +59899,6 @@
         "number": 9
       },
       "speechIndex": 342,
-      "originID": "2017041554331",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:22:47.609000+00:00",
       "dateEnd": "2025-10-07T11:24:12.801000+00:00",
@@ -60385,7 +60043,6 @@
         "number": 9
       },
       "speechIndex": 343,
-      "originID": "2017041554337",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:27:16.867000+00:00",
       "dateEnd": "2025-10-07T11:28:35.564000+00:00",
@@ -60572,7 +60229,6 @@
         "number": 9
       },
       "speechIndex": 344,
-      "originID": "2017041557555",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:36:38.393000+00:00",
       "dateEnd": "2025-10-07T11:38:01.574000+00:00",
@@ -60748,7 +60404,6 @@
         "number": 9
       },
       "speechIndex": 345,
-      "originID": "2017041557567",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:42:28.256000+00:00",
       "dateEnd": "2025-10-07T11:43:32.804000+00:00",
@@ -60923,7 +60578,6 @@
         "number": 9
       },
       "speechIndex": 346,
-      "originID": "2017041557575",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:48:38.008000+00:00",
       "dateEnd": "2025-10-07T11:49:59.603000+00:00",
@@ -61130,7 +60784,6 @@
         "number": 9
       },
       "speechIndex": 347,
-      "originID": "2017041557584",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:53:55.937000+00:00",
       "dateEnd": "2025-10-07T11:55:11.030000+00:00",
@@ -61318,7 +60971,6 @@
         "number": 9
       },
       "speechIndex": 348,
-      "originID": "2017041557624",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:19:09.555000+00:00",
       "dateEnd": "2025-10-07T12:20:29.764000+00:00",
@@ -61500,7 +61152,6 @@
         "number": 9
       },
       "speechIndex": 349,
-      "originID": "2017041557636",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:27:12.952000+00:00",
       "dateEnd": "2025-10-07T12:28:27.879000+00:00",
@@ -61681,7 +61332,6 @@
         "number": 9
       },
       "speechIndex": 350,
-      "originID": "2017041557641",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:30:06.236000+00:00",
       "dateEnd": "2025-10-07T12:31:14.717000+00:00",
@@ -61821,7 +61471,6 @@
         "number": 9
       },
       "speechIndex": 351,
-      "originID": "2017041562551",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:36:14.344000+00:00",
       "dateEnd": "2025-10-07T12:37:27.504000+00:00",
@@ -62067,7 +61716,6 @@
         "number": 10
       },
       "speechIndex": 352,
-      "originID": "2017041562601",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:31:02.971000+00:00",
       "dateEnd": "2025-10-07T13:31:34.243000+00:00",
@@ -62162,7 +61810,6 @@
         "number": 10
       },
       "speechIndex": 353,
-      "originID": "2017041562623",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:46:14.206000+00:00",
       "dateEnd": "2025-10-07T13:47:26.169000+00:00",
@@ -62295,7 +61942,6 @@
         "number": 10
       },
       "speechIndex": 354,
-      "originID": "2017041562641",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:58:33.678000+00:00",
       "dateEnd": "2025-10-07T13:59:54.240000+00:00",
@@ -62440,7 +62086,6 @@
         "number": 10
       },
       "speechIndex": 355,
-      "originID": "2017041562643",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:00:00.174000+00:00",
       "dateEnd": "2025-10-07T14:01:53.578000+00:00",
@@ -62585,7 +62230,6 @@
         "number": 10
       },
       "speechIndex": 356,
-      "originID": "2017041637064",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:14:57.863000+00:00",
       "dateEnd": "2025-10-07T14:16:09.230000+00:00",
@@ -62699,7 +62343,6 @@
         "number": 10
       },
       "speechIndex": 357,
-      "originID": "2017041637070",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:19:26+00:00",
       "dateEnd": "2025-10-07T14:20:42.468000+00:00",
@@ -62826,7 +62469,6 @@
         "number": 10
       },
       "speechIndex": 358,
-      "originID": "2017041637078",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:24:32.029000+00:00",
       "dateEnd": "2025-10-07T14:26:19+00:00",
@@ -63052,7 +62694,6 @@
         "number": 10
       },
       "speechIndex": 359,
-      "originID": "2017041637082",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:27:41.415000+00:00",
       "dateEnd": "2025-10-07T14:28:53.133000+00:00",
@@ -63216,7 +62857,6 @@
         "number": 10
       },
       "speechIndex": 360,
-      "originID": "2017041637086",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:30:15.879000+00:00",
       "dateEnd": "2025-10-07T14:32:00.085000+00:00",
@@ -63349,7 +62989,6 @@
         "number": 10
       },
       "speechIndex": 361,
-      "originID": "2017041637106",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:44:26.704000+00:00",
       "dateEnd": "2025-10-07T14:45:56.788000+00:00",
@@ -63536,7 +63175,6 @@
         "number": 10
       },
       "speechIndex": 362,
-      "originID": "2017041637108",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:46:01.866000+00:00",
       "dateEnd": "2025-10-07T14:46:37.391000+00:00",
@@ -63662,7 +63300,6 @@
         "number": 10
       },
       "speechIndex": 363,
-      "originID": "2017041637114",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:49:55.489000+00:00",
       "dateEnd": "2025-10-07T14:49:59.691000+00:00",
@@ -63753,7 +63390,6 @@
         "number": 10
       },
       "speechIndex": 364,
-      "originID": "2017041637115",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:50:09+00:00",
       "dateEnd": "2025-10-07T14:50:54.441000+00:00",
@@ -63873,7 +63509,6 @@
         "number": 10
       },
       "speechIndex": 365,
-      "originID": "2017041637132",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:49:59.691000+00:00",
       "dateEnd": "2025-10-07T14:50:09+00:00",
@@ -63975,7 +63610,6 @@
         "number": 10
       },
       "speechIndex": 366,
-      "originID": "2017041637143",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:04:11.288000+00:00",
       "dateEnd": "2025-10-07T15:05:38.263000+00:00",
@@ -64082,7 +63716,6 @@
         "number": 10
       },
       "speechIndex": 367,
-      "originID": "2017041641353",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:11:04.546000+00:00",
       "dateEnd": "2025-10-07T15:12:17.477000+00:00",
@@ -64226,7 +63859,6 @@
         "number": 10
       },
       "speechIndex": 368,
-      "originID": "2017041641358",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:15:04.035000+00:00",
       "dateEnd": "2025-10-07T15:17:36.450000+00:00",
@@ -64385,7 +64017,6 @@
         "number": 12
       },
       "speechIndex": 369,
-      "originID": "2017041641379",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:33:33.909000+00:00",
       "dateEnd": "2025-10-07T15:35:40.213000+00:00",
@@ -64634,7 +64265,6 @@
         "number": 12
       },
       "speechIndex": 370,
-      "originID": "2017041641417",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:59:19.598000+00:00",
       "dateEnd": "2025-10-07T16:00:36.470000+00:00",
@@ -64785,7 +64415,6 @@
         "number": 12
       },
       "speechIndex": 371,
-      "originID": "2017041641432",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:08:27.329000+00:00",
       "dateEnd": "2025-10-07T16:09:38.167000+00:00",
@@ -64966,7 +64595,6 @@
         "number": 12
       },
       "speechIndex": 372,
-      "originID": "2017041641438",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:12:33.702000+00:00",
       "dateEnd": "2025-10-07T16:13:48.533000+00:00",
@@ -65155,7 +64783,6 @@
         "number": 12
       },
       "speechIndex": 373,
-      "originID": "2017041650850",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:20:24.240000+00:00",
       "dateEnd": "2025-10-07T16:21:39.854000+00:00",
@@ -65324,7 +64951,6 @@
         "number": 12
       },
       "speechIndex": 374,
-      "originID": "2017041650853",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:22:47.214000+00:00",
       "dateEnd": "2025-10-07T16:23:15.390000+00:00",
@@ -65438,7 +65064,6 @@
         "number": 12
       },
       "speechIndex": 375,
-      "originID": "2017041650870",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:32:18.060000+00:00",
       "dateEnd": "2025-10-07T16:33:36.472000+00:00",
@@ -65584,7 +65209,6 @@
         "number": 13
       },
       "speechIndex": 376,
-      "originID": "2017041650904",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:21:12.777000+00:00",
       "dateEnd": "2025-10-07T17:22:35.955000+00:00",
@@ -65748,7 +65372,6 @@
         "number": 13
       },
       "speechIndex": 377,
-      "originID": "2017041650906",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:22:40.336000+00:00",
       "dateEnd": "2025-10-07T17:23:56.606000+00:00",
@@ -65929,7 +65552,6 @@
         "number": 13
       },
       "speechIndex": 378,
-      "originID": "2017041650908",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:23:58.783000+00:00",
       "dateEnd": "2025-10-07T17:25:08.476000+00:00",
@@ -66067,7 +65689,6 @@
         "number": 13
       },
       "speechIndex": 379,
-      "originID": "2017041650916",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:28:08.162000+00:00",
       "dateEnd": "2025-10-07T17:28:42.703000+00:00",
@@ -66194,7 +65815,6 @@
         "number": 13
       },
       "speechIndex": 380,
-      "originID": "2017041650928",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:34:05.153000+00:00",
       "dateEnd": "2025-10-07T17:35:08.455000+00:00",
@@ -66370,7 +65990,6 @@
         "number": 13
       },
       "speechIndex": 381,
-      "originID": "2017041650930",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:35:14.840000+00:00",
       "dateEnd": "2025-10-07T17:36:21.289000+00:00",
@@ -66515,7 +66134,6 @@
         "number": 14
       },
       "speechIndex": 382,
-      "originID": "2017041650940",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:43:56.464000+00:00",
       "dateEnd": "2025-10-07T17:44:14.730000+00:00",
@@ -66613,7 +66231,6 @@
         "number": 14
       },
       "speechIndex": 383,
-      "originID": "2017041650941",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:44:14.730000+00:00",
       "dateEnd": "2025-10-07T17:50:21.969000+00:00",
@@ -66992,7 +66609,6 @@
         "number": 14
       },
       "speechIndex": 384,
-      "originID": "2017041657046",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:50:36.490000+00:00",
       "dateEnd": "2025-10-07T17:52:20.306000+00:00",
@@ -67218,7 +66834,6 @@
         "number": 13
       },
       "speechIndex": 385,
-      "originID": "2017041657047",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:52:23.875000+00:00",
       "dateEnd": "2025-10-07T16:53:39.959000+00:00",
@@ -67344,7 +66959,6 @@
         "number": 14
       },
       "speechIndex": 386,
-      "originID": "2017041657049",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:52:28.260000+00:00",
       "dateEnd": "2025-10-07T17:53:39.296000+00:00",
@@ -67501,7 +67115,6 @@
         "number": 14
       },
       "speechIndex": 387,
-      "originID": "2017041657066",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:02:01.774000+00:00",
       "dateEnd": "2025-10-07T18:03:45.780000+00:00",
@@ -67763,7 +67376,6 @@
         "number": 14
       },
       "speechIndex": 388,
-      "originID": "2017041657073",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:05:21.366000+00:00",
       "dateEnd": "2025-10-07T18:06:40.497000+00:00",
@@ -67983,7 +67595,6 @@
         "number": 14
       },
       "speechIndex": 389,
-      "originID": "2017041657082",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:08:17.383000+00:00",
       "dateEnd": "2025-10-07T18:09:20.669000+00:00",
@@ -68260,7 +67871,6 @@
         "number": 13
       },
       "speechIndex": 390,
-      "originID": "2017041657085",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:02:09.709000+00:00",
       "dateEnd": "2025-10-07T17:03:52.515000+00:00",
@@ -68435,7 +68045,6 @@
         "number": 14
       },
       "speechIndex": 391,
-      "originID": "2017041657089",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:11:10.610000+00:00",
       "dateEnd": "2025-10-07T18:12:34.475000+00:00",
@@ -68580,7 +68189,6 @@
         "number": 13
       },
       "speechIndex": 392,
-      "originID": "2017041657106",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:08:39.074000+00:00",
       "dateEnd": "2025-10-07T17:09:47.453000+00:00",
@@ -68759,7 +68367,6 @@
         "number": 14
       },
       "speechIndex": 393,
-      "originID": "2017041657113",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:19:56.062000+00:00",
       "dateEnd": "2025-10-07T18:20:35.725000+00:00",
@@ -68866,7 +68473,6 @@
         "number": 15
       },
       "speechIndex": 394,
-      "originID": "2017041661450",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:41:55.293000+00:00",
       "dateEnd": "2025-10-07T18:46:13.469000+00:00",
@@ -69206,7 +68812,6 @@
         "number": 15
       },
       "speechIndex": 395,
-      "originID": "2017041661466",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:01:10.961000+00:00",
       "dateEnd": "2025-10-07T19:02:22.176000+00:00",
@@ -69370,7 +68975,6 @@
         "number": 15
       },
       "speechIndex": 396,
-      "originID": "2017041661476",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:08:57.753000+00:00",
       "dateEnd": "2025-10-07T19:10:41.941000+00:00",
@@ -69608,7 +69212,6 @@
         "number": 15
       },
       "speechIndex": 397,
-      "originID": "2017041661479",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:11:36.738000+00:00",
       "dateEnd": "2025-10-07T19:12:33.147000+00:00",
@@ -69742,7 +69345,6 @@
         "number": 15
       },
       "speechIndex": 398,
-      "originID": "2017041661487",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:17:10.702000+00:00",
       "dateEnd": "2025-10-07T19:18:35.602000+00:00",
@@ -69930,7 +69532,6 @@
         "number": 15
       },
       "speechIndex": 399,
-      "originID": "2017041661499",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:27:02.346000+00:00",
       "dateEnd": "2025-10-07T19:28:12.313000+00:00",
@@ -70118,7 +69719,6 @@
         "number": 2
       },
       "speechIndex": 400,
-      "originID": "2017041532858",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:30:05.102000+00:00",
       "dateEnd": "2025-10-07T07:31:55.223000+00:00",
@@ -70329,7 +69929,6 @@
         "number": 2
       },
       "speechIndex": 401,
-      "originID": "2017041532888",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T07:53:53.896000+00:00",
       "dateEnd": "2025-10-07T07:54:24.345000+00:00",
@@ -70431,7 +70030,6 @@
         "number": 2
       },
       "speechIndex": 402,
-      "originID": "2017041532927",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T08:17:50.085000+00:00",
       "dateEnd": "2025-10-07T08:18:51.535000+00:00",
@@ -70572,7 +70170,6 @@
         "number": 4
       },
       "speechIndex": 403,
-      "originID": "2017041540421",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:05:06.876000+00:00",
       "dateEnd": "2025-10-07T10:06:15.979000+00:00",
@@ -70795,7 +70392,6 @@
         "number": 4
       },
       "speechIndex": 404,
-      "originID": "2017041540431",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T10:18:03.078000+00:00",
       "dateEnd": "2025-10-07T10:18:11.232000+00:00",
@@ -70892,7 +70488,6 @@
         "number": 9
       },
       "speechIndex": 405,
-      "originID": "2017041554309",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:07:33.193000+00:00",
       "dateEnd": "2025-10-07T11:09:06.737000+00:00",
@@ -71110,7 +70705,6 @@
         "number": 9
       },
       "speechIndex": 406,
-      "originID": "2017041557579",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T11:51:20.183000+00:00",
       "dateEnd": "2025-10-07T11:52:32.416000+00:00",
@@ -71254,7 +70848,6 @@
         "number": 9
       },
       "speechIndex": 407,
-      "originID": "2017041557614",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:12:00.375000+00:00",
       "dateEnd": "2025-10-07T12:13:22.871000+00:00",
@@ -71392,7 +70985,6 @@
         "number": 9
       },
       "speechIndex": 408,
-      "originID": "2017041557620",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:16:16.386000+00:00",
       "dateEnd": "2025-10-07T12:17:36.351000+00:00",
@@ -71570,7 +71162,6 @@
         "number": 9
       },
       "speechIndex": 409,
-      "originID": "2017041562553",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:37:38.624000+00:00",
       "dateEnd": "2025-10-07T12:38:49.848000+00:00",
@@ -71702,7 +71293,6 @@
         "number": 9
       },
       "speechIndex": 410,
-      "originID": "2017041562555",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T12:39:04.753000+00:00",
       "dateEnd": "2025-10-07T12:40:08.644000+00:00",
@@ -71890,7 +71480,6 @@
         "number": 10
       },
       "speechIndex": 411,
-      "originID": "2017041562577",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:09:29.750000+00:00",
       "dateEnd": "2025-10-07T13:11:10.745000+00:00",
@@ -72022,7 +71611,6 @@
         "number": 10
       },
       "speechIndex": 412,
-      "originID": "2017041562583",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:15:08.358000+00:00",
       "dateEnd": "2025-10-07T13:17:17.604000+00:00",
@@ -72161,7 +71749,6 @@
         "number": 10
       },
       "speechIndex": 413,
-      "originID": "2017041562611",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:36:19.518000+00:00",
       "dateEnd": "2025-10-07T13:38:01.593000+00:00",
@@ -72275,7 +71862,6 @@
         "number": 10
       },
       "speechIndex": 414,
-      "originID": "2017041562613",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:38:04.069000+00:00",
       "dateEnd": "2025-10-07T13:39:50.111000+00:00",
@@ -72452,7 +72038,6 @@
         "number": 10
       },
       "speechIndex": 415,
-      "originID": "2017041562627",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T13:48:54.716000+00:00",
       "dateEnd": "2025-10-07T13:50:17.737000+00:00",
@@ -72571,7 +72156,6 @@
         "number": 10
       },
       "speechIndex": 416,
-      "originID": "2017041637062",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:13:37+00:00",
       "dateEnd": "2025-10-07T14:14:54+00:00",
@@ -72716,7 +72300,6 @@
         "number": 10
       },
       "speechIndex": 417,
-      "originID": "2017041637098",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:39:03.880000+00:00",
       "dateEnd": "2025-10-07T14:40:18.814000+00:00",
@@ -72836,7 +72419,6 @@
         "number": 10
       },
       "speechIndex": 418,
-      "originID": "2017041637100",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:40:22.382000+00:00",
       "dateEnd": "2025-10-07T14:41:39.895000+00:00",
@@ -73029,7 +72611,6 @@
         "number": 10
       },
       "speechIndex": 419,
-      "originID": "2017041637113",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T14:49:02.613000+00:00",
       "dateEnd": "2025-10-07T14:49:55.489000+00:00",
@@ -73161,7 +72742,6 @@
         "number": 12
       },
       "speechIndex": 420,
-      "originID": "2017041641408",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T15:52:21.469000+00:00",
       "dateEnd": "2025-10-07T15:54:15.659000+00:00",
@@ -73457,7 +73037,6 @@
         "number": 12
       },
       "speechIndex": 421,
-      "originID": "2017041641434",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:09:43.582000+00:00",
       "dateEnd": "2025-10-07T16:11:03.868000+00:00",
@@ -73680,7 +73259,6 @@
         "number": 12
       },
       "speechIndex": 422,
-      "originID": "2017041650868",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T16:31:14.376000+00:00",
       "dateEnd": "2025-10-07T16:32:11.810000+00:00",
@@ -73862,7 +73440,6 @@
         "number": 13
       },
       "speechIndex": 423,
-      "originID": "2017041650886",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:11:23.454000+00:00",
       "dateEnd": "2025-10-07T17:12:44.384000+00:00",
@@ -74001,7 +73578,6 @@
         "number": 13
       },
       "speechIndex": 424,
-      "originID": "2017041650917",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T17:28:42.703000+00:00",
       "dateEnd": "2025-10-07T17:29:35.445000+00:00",
@@ -74146,7 +73722,6 @@
         "number": 14
       },
       "speechIndex": 425,
-      "originID": "2017041657064",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:00:45.848000+00:00",
       "dateEnd": "2025-10-07T18:01:55.157000+00:00",
@@ -74315,7 +73890,6 @@
         "number": 14
       },
       "speechIndex": 426,
-      "originID": "2017041657121",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:23:36.111000+00:00",
       "dateEnd": "2025-10-07T18:24:58.845000+00:00",
@@ -74525,7 +74099,6 @@
         "number": 14
       },
       "speechIndex": 427,
-      "originID": "2017041657140",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T18:35:27.300000+00:00",
       "dateEnd": "2025-10-07T18:36:52.441000+00:00",
@@ -74688,7 +74261,6 @@
         "number": 15
       },
       "speechIndex": 428,
-      "originID": "2017041661468",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:02:27.828000+00:00",
       "dateEnd": "2025-10-07T19:04:18.640000+00:00",
@@ -74973,7 +74545,6 @@
         "number": 15
       },
       "speechIndex": 429,
-      "originID": "2017041661491",
       "originalLanguage": "en",
       "dateStart": "2025-10-07T19:20:32.384000+00:00",
       "dateEnd": "2025-10-07T19:21:53.800000+00:00",
